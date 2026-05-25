@@ -1,0 +1,29 @@
+[
+  {
+    "customer_id": 101,
+    "name": "Ana Silva",
+    "email": "ana.silva@email.com",
+    "created_at": "2025-01-10",
+    "addresses": [
+      {
+        "type": "home",
+        "city": "São Paulo",
+        "state": "SP",
+        "zip": "01000-000"
+      }
+    ],
+    "phones": [
+      "+55-11-91234-5678"
+    ],
+    "preferences": {
+      "newsletter": true,
+      "sms": false,
+      "categories": [
+        "books"
+      ]
+    },
+    "purchase_history": [
+      199.90
+    ]
+  }
+]

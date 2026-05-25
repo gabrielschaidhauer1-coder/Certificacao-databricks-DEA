@@ -1,0 +1,10 @@
+{"cliente_id": 21, "nome": "Isabela Martins", "email": "isabela.martins@gmail.com", "valor_compra": 1850.00, "cidade": "Campinas", "observacao": "Cliente VIP - preferência por entrega expressa"}
+{"cliente_id": 22, "nome": "Rafael Henrique Silva", "email": "rafael.h.silva@outlook.com", "valor_compra": 420.50, "cidade": "Santos", "observacao": "Solicitou embalagem especial para presente"}
+{"cliente_id": 23, "nome": "Larissa Fernandes", "email": "larissa.fernandes@hotmail.com", "valor_compra": 675.90, "cidade": "Ribeirão Preto", "observacao": "Indicado por programa de afiliados - cupom AMIGO2024"}
+{"cliente_id": 24, "nome": "Eduardo Costa Neto", "email": "eduardo.costa.neto@yahoo.com.br", "valor_compra": 2340.00, "cidade": "Sorocaba", "observacao": "Compra corporativa - solicitar nota fiscal com CNPJ"}
+{"cliente_id": 25, "nome": "Amanda Souza Lima", "email": "amanda.s.lima@gmail.com", "valor_compra": 890.75, "cidade": "São José dos Campos", "observacao": "Primeiro pedido - enviar brinde de boas-vindas"}
+{"cliente_id": 26, "nome": "Vinicius Rodrigues", "email": "vinicius.rodrigues@uol.com.br", "valor_compra": 1205.30, "cidade": "Jundiaí", "observacao": "Cliente recorrente - 5ª compra no mês"}
+{"cliente_id": 27, "nome": "Gabriela Almeida", "email": "gabi.almeida@gmail.com", "valor_compra": 545.00, "cidade": "Piracicaba", "observacao": "Participante do programa de fidelidade Ouro"}
+{"cliente_id": 28, "nome": "Thiago Oliveira Santos", "email": "thiago.o.santos@hotmail.com", "valor_compra": 3120.00, "cidade": "Bauru", "observacao": "Pedido urgente - confirmar disponibilidade antes do envio"}
+{"cliente_id": 29, "nome": "Bianca Pereira", "email": "bianca.pereira@gmail.com", "valor_compra": 780.90, "cidade": "Araraquara", "observacao": "Endereço comercial - horário de entrega 9h-18h"}
+{"cliente_id": 30, "nome": "Lucas Barbosa Mendes", "email": "lucas.b.mendes@outlook.com", "valor_compra": 1450.00, "cidade": "Limeira", "observacao": "Pagamento via boleto - aguardando compensação bancária"}
