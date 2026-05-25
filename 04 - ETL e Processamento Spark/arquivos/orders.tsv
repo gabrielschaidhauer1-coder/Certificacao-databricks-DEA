@@ -1,0 +1,691 @@
+order_id	customer_id	order_date	status	total_amount	payment_method	shipping_address_type	discount_percent	notes
+1236	275	2024-06-12 19:03:00	cancelled	6225.48	boleto	other	15.0	Presente
+1145	575	2024-07-29 10:20:00	processing	23372.54	boleto	other	10.0	
+1112	35	2024-07-29 19:35:00	shipped	17392.13	debit_card	delivery	0.0	Urgente
+1564	11	2024-06-27 18:42:00	pending	5969.02	boleto	other	0.0	Parcelado
+1369	201	2024-06-02 09:06:00	processing	379.06	boleto	home	5.0	Urgente
+1620	248	2024-06-07 19:07:00	processing	9930.19	credit_card	delivery	5.0	Parcelado
+1348	518	2024-07-30 14:40:00	shipped	6039.55	debit_card	home	0.0	
+1398	255	2024-06-28 17:23:00	pending	17157.58	debit_card	other	5.0	
+1374	390	2024-07-05 15:50:00	shipped	9348.25	pix	delivery	15.0	
+1585	590	2024-07-01 14:19:00	shipped	18592.31	boleto	delivery	5.0	
+1090	20	2024-07-08 09:59:00	processing	6253.59	debit_card	delivery	10.0	Cliente VIP
+1377	402	2024-07-24 12:33:00	processing	16591.7	boleto	other	0.0	Cliente VIP
+1533	405	2025-11-02 00:00:00	pending	20761.88	credit_card	home	10.0	
+1235	191	2024-07-03 14:19:00	shipped	10733.45	credit_card	work	0.0	Cupom aplicado
+1087	484	2024-06-26 14:08:00	pending	21024.75	debit_card	home	5.0	
+1244	552	2024-06-10 12:36:00	processing	18813.64	credit_card	other	0.0	Parcelado
+1149	337	2024-07-24 12:44:00	delivered	23153.22	pix	other	10.0	
+1182	440	2024-06-02 19:41:00	cancelled	15586.59	pix	work	5.0	Cupom aplicado
+1505	132	2024-06-17 20:12:00	pending	8773.66	pix	delivery	0.0	
+1489	98	2024-06-14 09:13:00	pending	4737.99	debit_card	delivery	10.0	Parcelado
+1416	470	2024-06-07 11:34:00	cancelled	7197.99	credit_card	work	15.0	
+1091	61	2024-06-16 17:24:00	delivered		pix	work	5.0	Parcelado
+1632	92	2024-06-24 13:20:00	delivered	14714.54	pix	home	0.0	
+1012	163	2024-06-28 09:37:00	pending	19542.32	pix	work	20.0	
+1380	33	2024-07-09 10:34:00	delivered	20577.14	credit_card	other	0.0	Urgente
+1609	362	2024-06-09 11:14:00	cancelled	143.48	pix	work	20.0	Cliente VIP
+1286	525	2024-06-18 11:30:00	cancelled	16021.65	boleto	delivery	0.0	Urgente
+1596	7	2024-06-21 11:28:00	shipped	9160.77	credit_card	other	10.0	Cupom aplicado
+1242	398	2024-07-02 17:09:00	shipped	3958.44	boleto	other	0.0	Presente
+1471	309	2024-06-18 13:29:00	delivered	10366.18	debit_card	other	0.0	Cupom aplicado
+1419	303	2024-07-03 11:07:00	cancelled	5219.78	boleto	delivery	5.0	
+1433	350	2024-07-15 14:57:00	processing	22930.87	credit_card	work	5.0	Urgente
+1053	278	2024-06-28 09:28:00	processing	16848.72	debit_card	work	20.0	Cupom aplicado
+1541	345	2024-06-26 12:06:00	shipped	18294.13	boleto	delivery	0.0	Cupom aplicado
+1461	300	2024-06-17 17:56:00	processing	17372.61	pix	other	10.0	Parcelado
+1606	11	2024-06-28 08:50:00	shipped	24446.69	debit_card	work	0.0	Cupom aplicado
+1482	523	2024-07-12 20:41:00	delivered	7052.5	boleto	other	5.0	Cupom aplicado
+1177	20	2024-07-27 13:37:00	cancelled	16463.6	boleto	home	0.0	Urgente
+1630	104	2024-07-25 10:09:00	delivered	589.79	pix	work	15.0	Cliente VIP
+1438	534	2024-07-13 19:21:00	cancelled	14699.18	pix	delivery	20.0	Cliente VIP
+1066	90	2024-07-04 13:52:00	cancelled	23462.64	debit_card	other	5.0	
+1367	452	2024-06-06 18:07:00	shipped	1032.38	pix	home	0.0	
+1062	401	2024-07-17 12:15:00	cancelled	20888.95	credit_card	work	5.0	
+1337	8	2024-07-05 17:59:00	pending	19149.84	debit_card	work	5.0	Cliente VIP
+1406	150	2024-06-16 20:27:00	pending	22222.2	debit_card	other	0.0	
+1584	598	2024-07-28 13:52:00	shipped	10368.18	credit_card	home	0.0	
+1074	401	2024-06-14 10:53:00	pending	4113.26	credit_card	other	0.0	
+1256	166	2024-07-28 08:09:00	delivered	23149.44	boleto	home	15.0	
+1526	533	2024-07-20 12:27:00	pending	20121.37	credit_card	delivery	0.0	Presente
+1587	265	2024-07-14 14:33:00	delivered	10875.08	debit_card	other	0.0	Presente
+1252	359	2024-07-21 20:36:00	delivered	6210.04	pix	home	20.0	
+1517	114	2024-07-04 11:09:00	processing	22462.02	pix	other	10.0	Urgente
+1301	107	2024-07-29 09:42:00	delivered	10546.91	boleto	delivery	0.0	Parcelado
+1005	516	2024-07-25 13:45:00	processing	4091.76	debit_card	delivery	0.0	Cupom aplicado
+1381	201	2024-07-07 08:44:00	processing	12276.01	debit_card	delivery	0.0	Parcelado
+1475	289	2024-06-02 12:55:00	delivered	8899.49	pix	other	0.0	Presente
+1522	343	2024-06-15 12:39:00	shipped	8986.79	boleto	delivery	0.0	Cupom aplicado
+1426	59	2024-06-21 10:59:00	pending	2803.86	boleto	delivery	5.0	Parcelado
+1490	429	2024-07-20 13:34:00	shipped	15568.88	pix	work	15.0	
+1545		2024-06-07 12:25:00	delivered	2445.51	boleto	other	15.0	Presente
+1644	470	2024-06-14 13:26:00	delivered	18192.41	credit_card	work	0.0	Cupom aplicado
+1494	161	2024-06-07 19:38:00	cancelled	21037.53	credit_card	home	0.0	
+1347	212	2024-06-23 15:57:00	processing	14282.81	boleto	home	20.0	Urgente
+1357	358	2024-07-25 20:36:00	delivered	24535.75	boleto	home	20.0	Parcelado
+1649	355	2024-06-28 13:48:00	processing	17602.44	boleto	work	0.0	Presente
+1495	159	2024-07-01 11:18:00	pending	10069.3	debit_card	work	0.0	Parcelado
+1384	239	2024-07-23 11:48:00	shipped	19947.29	credit_card	home	0.0	Presente
+1077	176	2024-06-26 17:18:00	processing	14804.35	debit_card	home	15.0	Presente
+1181	328	2024-07-21 18:33:00	cancelled	6947.45	boleto	work	0.0	Presente
+1332	553	2024-06-05 17:22:00	delivered	13658.49	debit_card	delivery	0.0	Presente
+1327	223	2024-07-01 12:29:00	cancelled	1099.37	credit_card	home	5.0	Parcelado
+1394	103	2024-07-31 10:48:00	processing	13298.8	credit_card	delivery	10.0	Parcelado
+1460	368	2024-06-27 14:46:00	shipped	18212.86	boleto	home	15.0	
+1263	114	2024-07-13 14:07:00	shipped	16053.28	credit_card	delivery	0.0	
+1451	153	2024-06-19 08:24:00	processing	4736.04	boleto	work	0.0	Urgente
+1617	32	2024-07-17 08:36:00	cancelled	17490.06	boleto	work	5.0	Cupom aplicado
+1539	369	2025-05-14 00:00:00	pending	2789.17	pix	delivery	5.0	Cliente VIP
+1075	522	2024-07-24 17:05:00	cancelled	23265.69	boleto	home	10.0	
+1618	172	2024-06-26 14:44:00	processing	6579.32	debit_card	home	0.0	Cupom aplicado
+1195	249	2024-07-16 13:02:00	shipped	15373.84	debit_card	work	0.0	Parcelado
+1356	91	2024-06-16 20:26:00	cancelled	666.98	credit_card	work	0.0	Cupom aplicado
+1441	140	2024-06-08 15:42:00	shipped	17673.33	debit_card	delivery	0.0	
+1362	166	2024-06-30 14:11:00	processing	10902.73	credit_card	work	5.0	Cupom aplicado
+1650	508	2024-07-15 16:30:00	processing	2737.8	pix	other	15.0	
+1059	344	2024-07-21 11:32:00	cancelled	14278.26	credit_card	work	0.0	Urgente
+1525	288	2024-07-19 16:50:00	shipped	-108.76	boleto	other	5.0	
+1365	26	2024-07-06 11:58:00	cancelled	781.59	credit_card	delivery	0.0	Cliente VIP
+1436	416	2024-07-22 08:07:00	delivered	14975.9	pix	delivery	0.0	Presente
+1069	451	2024-07-13 11:01:00	delivered	22197.21	credit_card	work	0.0	
+1453	520	2024-06-28 20:51:00	shipped	6264.7	debit_card	other	10.0	
+1044	599	2024-07-20 10:23:00	processing	15959.28	pix	delivery	0.0	Cupom aplicado
+1337	8	2024-07-05 17:59:00	pending	19149.84	debit_card	work	5.0	Cliente VIP
+1222	370	2024-06-18 14:46:00	pending	12080.88	debit_card	work	0.0	
+1030	404	2024-07-29 10:37:00	pending	714.88	debit_card	home	0.0	Urgente
+1094	410	2024-06-27 10:12:00	processing	9559.87	boleto	other	0.0	
+1215	214	2024-07-17 15:27:00	delivered	15449.03	credit_card	home	5.0	Cliente VIP
+1092	316	2024-06-03 13:22:00	delivered	18859.76	boleto	delivery	20.0	Urgente
+1324	96	2024-07-29 17:59:00	pending	24229.63	credit_card	home	0.0	Parcelado
+1471	309	2024-06-18 13:29:00	delivered	10366.18	debit_card	other	0.0	Cupom aplicado
+1137	374	2024-06-02 09:23:00	pending	5798.39	credit_card	other	5.0	
+1306	320	2024-06-13 08:02:00	processing	8449.4	debit_card	work	20.0	Presente
+1595	349	2024-06-16 09:07:00	cancelled	6435.26	pix	delivery	0.0	
+1146	450	2024-07-01 11:39:00	processing	13396.14	pix	work	0.0	
+1293	90	2024-06-27 15:34:00	processing	9011.54	debit_card	work	5.0	Cupom aplicado
+1213	464	2024-06-30 09:38:00	delivered	23816.03	credit_card	work	0.0	Cupom aplicado
+1142	8	2024-06-24 18:29:00	processing	24845.82	boleto	other	20.0	
+1502	512	2024-06-23 18:25:00	delivered	14233.55	boleto	work	0.0	Presente
+1243	218	2024-07-31 18:18:00	shipped	10757.63	credit_card	other	20.0	
+1126	418	2024-06-09 14:11:00	cancelled	119.16	debit_card	home	0.0	Cupom aplicado
+1615	169	2024-07-09 14:23:00	shipped	18829.42	pix	work	10.0	
+1607	275	2024-07-18 18:34:00	pending	11534.52	credit_card	delivery	0.0	
+1446	507	2024-06-23 11:39:00	pending	11713.03	pix	delivery	20.0	
+1549	183	2024-07-31 16:20:00	pending	17605.68	credit_card	delivery	10.0	Presente
+1292	402	2024-06-12 19:39:00	delivered	12160.0	debit_card	work	20.0	
+1313	142	2024-06-21 08:26:00	cancelled	9607.72	pix	home	0.0	
+1191	155	2024-06-16 17:25:00	processing	15808.3	credit_card	delivery	15.0	
+1295	513	2024-06-03 12:34:00	shipped		debit_card	home	5.0	
+1031	93	2024-06-11 17:03:00	shipped	9850.84	debit_card	home	0.0	
+1382	5	2024-06-16 16:59:00	delivered	13999.37	pix	home	0.0	
+1163	560	2024-07-25 12:04:00	pending	1971.93	debit_card	delivery	10.0	Parcelado
+1568	237	2024-07-09 18:01:00	shipped	14249.7	boleto	home	0.0	Urgente
+	535	2024-07-14 15:57:00	processing	18672.12	debit_card	delivery	0.0	Parcelado
+1437	569	2024-06-17 13:14:00	delivered	1365.3	debit_card	home	20.0	Cliente VIP
+1098	462	2024-07-10 10:23:00	delivered	3079.29	pix	work	0.0	Urgente
+1239	524	2024-06-04 17:58:00	shipped	11844.62	pix	work	0.0	Cupom aplicado
+1257	41	2024-06-16 12:09:00	processing	22388.19	pix	delivery	10.0	Urgente
+1025	23	2024-06-11 08:34:00	pending	21067.98	debit_card	home	0.0	
+1605	556	2024-07-30 20:12:00	cancelled	12716.78	boleto	work	0.0	Presente
+1622	314	2024-06-11 10:36:00	processing	24072.53	pix	other	15.0	Cupom aplicado
+1503	509	2024-07-07 20:59:00	pending	14239.1	debit_card	delivery	5.0	
+1017	408	2024-06-18 15:53:00	delivered	21715.36	boleto	other	20.0	
+1099	253	2024-06-07 13:12:00	processing	15007.25	debit_card	work	5.0	
+1314	130	2024-07-19 15:56:00	delivered	23619.21	pix	home	10.0	Cliente VIP
+1521	299	2024-07-04 14:43:00	processing	8114.53	credit_card	home	20.0	Cliente VIP
+1074	401	2024-06-14 10:53:00	pending	4113.26	credit_card	other	0.0	
+1467	87	2024-07-22 17:41:00	shipped	12617.64	pix	work	20.0	Cliente VIP
+1264	244	2024-06-06 13:13:00	delivered	10861.84	debit_card	other	0.0	Cupom aplicado
+1280	510	2024-07-29 16:41:00	pending	5722.17	credit_card	work	0.0	Presente
+1341	374	2024-07-16 17:27:00	delivered	11408.66	pix	home	10.0	Cupom aplicado
+1623	493	2024-07-21 15:51:00	shipped	14898.42	debit_card	work	5.0	
+1006	413	2024-06-10 15:11:00	shipped	11244.88	boleto	delivery	0.0	
+1434	224	2024-07-09 18:09:00	shipped	22304.79	credit_card	other	20.0	Urgente
+1646	82	2024-06-17 14:30:00	pending	9503.95	boleto	other	0.0	
+1349	507	2024-07-15 10:52:00	delivered	19478.05	debit_card	delivery	5.0	Parcelado
+1158	323	2024-07-23 13:00:00	cancelled	16562.85	debit_card	other	20.0	Cupom aplicado
+1162	473	2024-07-18 16:44:00	cancelled	13182.52	debit_card	work	5.0	Cliente VIP
+1439	285	2024-07-29 19:02:00	cancelled	4437.18	credit_card	other	5.0	Presente
+1178	46	2024-07-22 11:05:00	cancelled	19079.5	pix	delivery	10.0	
+1296	50	2024-06-07 17:15:00	processing	5680.96	boleto	home	10.0	
+1563	213	2024-07-29 14:00:00	cancelled	19453.86	pix	other	5.0	
+1082	259	2024-07-27 20:37:00	processing	16368.49	credit_card	delivery	0.0	Presente
+1379	441	2024-07-09 19:21:00	pending	19090.79	pix	delivery	20.0	
+1106	157	2024-07-19 20:41:00	shipped	217.75	debit_card	delivery	5.0	Urgente
+1272		2024-06-27 10:12:00	pending	21761.02	debit_card	work	0.0	
+1338	119	2024-06-08 20:32:00	shipped	18325.54	boleto	work	0.0	
+1407	322	2024-06-07 11:15:00	pending	7797.02	debit_card	home	0.0	Presente
+1432	47	2024-06-20 19:38:00	processing	4125.3	pix	delivery	0.0	Parcelado
+1175	157	2024-07-06 12:07:00	delivered	13189.29	pix	delivery	0.0	Cliente VIP
+1636	322	2024-06-23 15:07:00	delivered	5803.74	debit_card	delivery	5.0	Presente
+1068	439	2024-06-03 13:57:00	processing	22875.42	debit_card	work	0.0	Cupom aplicado
+1628	188	2024-07-21 19:22:00	delivered	5599.6	boleto	work	0.0	
+1328	459	2024-06-08 15:53:00	cancelled	2325.61	credit_card	work	5.0	
+1342	241	2024-06-13 12:49:00	pending	9197.74	debit_card	delivery	0.0	Cupom aplicado
+1051	430	2024-06-02 16:09:00	pending	7060.54	credit_card	other	20.0	
+1225	549	2024-07-01 11:05:00	cancelled	2347.78	credit_card	delivery	0.0	Cupom aplicado
+1123	413	2024-06-03 12:29:00	processing	7872.74	boleto	home	5.0	Cliente VIP
+1399	110	2024-06-21 08:26:00	cancelled	16844.98	boleto	work	5.0	Parcelado
+1302	483	2024-07-12 20:26:00	pending	4044.93	credit_card	delivery	5.0	
+1341	374	2024-07-16 17:27:00	delivered	11408.66	pix	home	10.0	Cupom aplicado
+1412	222	2024-06-30 08:33:00	pending	14624.27	credit_card	delivery	20.0	Urgente
+1366	397	2024-06-22 15:35:00	cancelled	20582.95	pix	other	0.0	
+1352	118	2024-06-26 18:12:00	processing	8040.62	boleto	work	5.0	Presente
+1414	242	2024-06-29 15:46:00	pending	16909.42	boleto	work	20.0	Cupom aplicado
+1543	597	2024-07-21 13:31:00	shipped	9084.96	credit_card	other	5.0	
+1506	525	2024-07-27 20:41:00	processing	23695.74	boleto	home	20.0	Cupom aplicado
+1422	186	2024-07-18 10:49:00	cancelled	16114.0	boleto	home	5.0	Parcelado
+1168	361	2024-06-07 10:16:00	shipped		credit_card	other	10.0	Cliente VIP
+1319	405	2024-07-02 14:49:00	pending	10204.49	debit_card	work	20.0	Cupom aplicado
+1281	456	2024-06-17 11:52:00	cancelled	8007.4	pix	delivery	0.0	Cliente VIP
+1372	395	2024-07-12 19:27:00	cancelled	6018.41	pix	home	15.0	Parcelado
+1173	341	2024-07-17 08:34:00	cancelled	24578.82	pix	home	0.0	Urgente
+1212	435	2024-07-25 18:22:00	pending	16162.92	boleto	work	0.0	Presente
+1593	196	2024-06-22 15:34:00	shipped	14989.66	credit_card	work	10.0	Parcelado
+1278	130	2024-07-21 20:32:00	pending	6602.72	boleto	other	20.0	Cliente VIP
+1531	175	2024-06-06 13:20:00	processing	21529.33	boleto	other	0.0	Parcelado
+1411	103	2024-07-20 08:30:00	delivered	6073.96	pix	home	20.0	Parcelado
+1210	492	2024-06-25 19:56:00	cancelled	14083.15	boleto	other	0.0	
+1132	505	2024-07-30 12:42:00	shipped	14783.83	debit_card	home	0.0	Urgente
+1253	238	2024-06-18 12:13:00	delivered	16436.91	debit_card	delivery	10.0	
+1581	46	2024-06-15 11:11:00	delivered	18077.9	boleto	delivery	20.0	Cliente VIP
+1614	473	2024-07-01 10:56:00	shipped	7677.56	pix	delivery	10.0	Cliente VIP
+1067	113	2024-06-01 20:33:00	pending	16262.78	boleto	home	0.0	Presente
+1358	226	2024-06-05 09:02:00	cancelled	16874.83	debit_card	home	20.0	Cupom aplicado
+1050	552	2024-07-10 10:08:00	delivered	23743.46	debit_card	other	20.0	
+1277	554	2024-06-02 09:01:00	pending	22755.33	pix	work	0.0	
+1229	56	2024-06-12 16:27:00	shipped	520.63	pix	work	0.0	Urgente
+1523	438	2025-01-01 00:00:00	pending	5203.22	debit_card	home	20.0	
+1448	328	2024-07-10 12:11:00	cancelled	928.96	debit_card	work	5.0	Cupom aplicado
+1373	95	2024-07-22 18:48:00	delivered	24027.72	pix	other	15.0	Cliente VIP
+1353	92	2024-07-29 08:03:00	cancelled	20527.83	debit_card	home	10.0	Cliente VIP
+1611	217	2024-07-22 17:41:00	shipped	24341.21	boleto	delivery	20.0	Cliente VIP
+1022	587	2024-06-08 14:14:00	pending	19321.46	boleto	home	0.0	Cupom aplicado
+1220		2025-12-23 00:00:00	pending	24470.3	pix	delivery	15.0	Urgente
+1259	557	2024-06-25 08:05:00	delivered	17562.13	credit_card	other	0.0	Presente
+1508	409	2024-07-15 17:21:00	cancelled	21772.07	pix	other	5.0	Urgente
+1211	132	2024-07-08 20:46:00	cancelled	16627.69	debit_card	work	20.0	
+1334	339	2024-07-05 12:59:00	cancelled	21731.71	credit_card	work	0.0	
+1457	282	2024-06-19 19:46:00	delivered	12932.75	boleto	other	5.0	Urgente
+1201	146	2024-06-15 18:19:00	shipped	12833.79	pix	other	5.0	Urgente
+1021	564	2024-06-21 09:44:00	cancelled	11577.28	debit_card	other	0.0	
+1445	94	2024-06-08 18:47:00	pending	10442.33	pix	home	10.0	Urgente
+1268	304	2024-07-27 10:54:00	delivered	2206.14	debit_card	other	5.0	
+1248	408	2024-07-21 11:37:00	delivered	8116.63	pix	work	15.0	
+1350	171	2024-07-17 15:42:00	pending	907.75	debit_card	home	10.0	Cupom aplicado
+1100	69	2025-10-08 00:00:00	delivered	3712.43	credit_card	delivery	15.0	Presente
+1364	580	2024-07-05 09:08:00	cancelled	11648.03	boleto	delivery	10.0	Cliente VIP
+1408	561	2024-06-11 13:50:00	pending	18518.76	credit_card	other	10.0	
+	421	2024-06-15 14:53:00	cancelled	16705.7	credit_card	other	0.0	Cupom aplicado
+1510	244	2024-06-05 11:24:00	pending	3242.94	debit_card	home	0.0	
+1015	162	2024-07-10 16:23:00	shipped	10133.44	debit_card	home	0.0	
+1167	327	2024-07-17 15:43:00	shipped	16654.43	boleto	delivery	0.0	Parcelado
+1491	336	2024-06-22 17:51:00	cancelled	17661.72	credit_card	work	10.0	Cupom aplicado
+1214	285	2024-06-12 20:58:00	processing	17488.73	debit_card	delivery	10.0	
+1262	378	2024-07-02 14:18:00	processing	6009.03	credit_card	home	15.0	Cliente VIP
+1604	585	2024-06-29 12:17:00	pending	18046.67	credit_card	other	10.0	Parcelado
+1165	581	2024-07-20 20:24:00	cancelled	142.4	boleto	work	0.0	Cupom aplicado
+1250	269	2024-07-03 18:05:00	pending	10369.55	boleto	delivery	10.0	Cliente VIP
+1122	99	2024-06-22 16:17:00	cancelled	4117.0	boleto	work	0.0	
+1150	227	2024-06-08 08:00:00	delivered	24617.8	debit_card	work	0.0	Cupom aplicado
+1346	214	2024-07-13 12:54:00	shipped	21594.74	debit_card	work	0.0	Urgente
+1608	509	2024-07-09 15:42:00	cancelled	1886.58	debit_card	home	0.0	
+1387	359	2025-10-10 00:00:00	shipped	10813.1	credit_card	home	10.0	Presente
+1139	581	2025-05-08 00:00:00	shipped	9165.84	credit_card	delivery	15.0	Cliente VIP
+1186	486	2024-06-08 15:39:00	cancelled	3829.95	debit_card	work	5.0	
+1591	168	2024-06-15 11:43:00	processing	3620.2	debit_card	delivery	0.0	Cupom aplicado
+1216	336	2024-06-10 18:19:00	delivered	7379.38	debit_card	work	0.0	Parcelado
+1610	518	2024-06-11 17:58:00	cancelled	15809.2	pix	delivery	20.0	
+1122	99	2024-06-22 16:17:00	cancelled	4117.0	boleto	work	0.0	
+1464	35	2024-07-25 10:21:00	processing	21788.75	boleto	other	15.0	
+1597	458	2024-07-05 14:01:00	pending	14772.75	debit_card	work	0.0	Presente
+1449	444	2024-07-08 18:59:00	cancelled	4238.55	pix	work	0.0	Cupom aplicado
+1273	186	2024-06-12 16:09:00	cancelled	8202.15	debit_card	work	0.0	Urgente
+1184	89	2024-06-24 09:51:00	pending	12541.24	pix	work	5.0	Parcelado
+1424	526	2024-06-11 12:30:00	processing	13434.97	boleto	other	15.0	
+1060	379	2024-07-18 11:24:00	processing	14217.06	pix	other	0.0	Presente
+1224	452	2024-07-02 18:27:00	cancelled	17474.18	pix	home	0.0	
+1432	47	2024-06-20 19:38:00	processing	4125.3	pix	delivery	0.0	Parcelado
+1496	365	2024-06-24 11:54:00	pending	1022.74	credit_card	delivery	0.0	
+1547	413	2024-06-03 09:29:00	cancelled	2564.2	credit_card	other	0.0	
+1329	540	2024-07-15 16:41:00	delivered	10926.43	credit_card	delivery	10.0	Cupom aplicado
+1084	553	2024-06-03 16:40:00	pending	10082.61	debit_card	other	10.0	
+1166	52	2024-07-24 16:03:00	processing	9635.51	debit_card	home	0.0	Cupom aplicado
+1643	13	2024-07-01 10:45:00	pending	24588.72	credit_card	delivery	5.0	
+1458	419	2024-07-15 09:29:00	pending	21670.08	boleto	home	0.0	Urgente
+1030	404	2024-07-29 10:37:00	pending	714.88	debit_card	home	0.0	Urgente
+1444	32	2024-06-11 19:17:00	shipped		pix	other	5.0	Parcelado
+1434	224	2024-07-09 18:09:00	shipped	22304.79	credit_card	other	20.0	Urgente
+1008	142	2024-06-23 17:08:00	cancelled	12623.5	boleto	home	5.0	
+1359	208	2024-07-09 15:39:00	processing	14633.97	credit_card	delivery	0.0	Cupom aplicado
+1560	392	2024-07-29 15:12:00	pending	3652.31	debit_card	home	15.0	Presente
+1206	382	2024-06-05 16:22:00	shipped	14597.75	boleto	home	5.0	Presente
+1155	583	2024-07-30 08:53:00	processing	1048.15	boleto	work	20.0	Parcelado
+1428	418	2024-06-13 09:10:00	shipped	11243.3	debit_card	other	0.0	Cupom aplicado
+1135	54	2024-06-21 19:26:00	processing	10239.24	boleto	work	0.0	Cupom aplicado
+1190	564	2024-06-14 16:16:00	delivered	13151.79	debit_card	home	15.0	Cliente VIP
+1097	159	2024-07-08 19:38:00	cancelled	8049.31	boleto	other	10.0	Cliente VIP
+1487	467	2024-06-20 12:52:00	processing	6598.19	credit_card	home	15.0	
+1544	544	2024-07-20 12:40:00	processing	5996.41	pix	other	0.0	Urgente
+1174	13	2024-07-08 20:27:00	cancelled	12145.48	boleto	work	20.0	Urgente
+1070	487	2024-07-29 17:41:00	pending	19288.86	boleto	other	0.0	Presente
+1573	516	2024-07-23 12:12:00	cancelled	156.23	pix	other	0.0	Parcelado
+1063	438	2024-06-04 12:31:00	delivered	7375.25	boleto	delivery	0.0	Presente
+1061	273	2024-06-05 18:00:00	pending	5716.98	pix	delivery	5.0	Urgente
+1572	523	2024-06-30 13:50:00	pending	21083.89	debit_card	work	20.0	Parcelado
+1237	587	2024-07-06 18:40:00	cancelled	5839.65	boleto	home	0.0	
+1626	54	2024-07-16 12:11:00	pending	12343.05	debit_card	home	15.0	Cupom aplicado
+1344	371	2024-07-15 12:30:00	delivered	2894.65	boleto	home	0.0	Parcelado
+1548	41	2024-07-19 09:28:00	delivered	19774.89	pix	home	5.0	Cupom aplicado
+1052	447	2024-07-26 10:25:00	cancelled	8881.95	credit_card	delivery	0.0	Cliente VIP
+1187	439	2024-06-21 12:55:00	cancelled	11228.07	pix	other	5.0	Parcelado
+1188	73	2024-07-11 20:28:00	shipped	14854.0	credit_card	home	20.0	Cliente VIP
+1004	63	2024-06-14 09:31:00	processing	19419.08	boleto	delivery	20.0	
+1221	409	2024-07-01 10:11:00	cancelled	69.7	boleto	work	0.0	
+1018	83	2024-06-26 11:28:00	pending	17146.98	credit_card	delivery	10.0	Presente
+1430	117	2024-07-19 11:41:00	delivered	24778.15	pix	work	20.0	
+1200	403	2024-07-23 20:34:00	pending	-278.35	boleto	other	10.0	
+1395	93	2024-07-13 12:41:00	processing	20406.94	boleto	delivery	0.0	
+1064	406	2024-07-17 14:05:00	delivered	24077.32	pix	other	0.0	Cupom aplicado
+1537	443	2024-07-05 15:42:00	shipped	20027.52	debit_card	work	15.0	
+1141	415	2024-07-08 11:27:00	pending	4910.39	pix	other	0.0	Cliente VIP
+1551	418	2024-06-03 15:03:00	processing	5399.17	credit_card	work	0.0	Parcelado
+1041	589	2024-06-13 11:56:00	processing	24655.12	boleto	delivery	0.0	Parcelado
+1134	291	2024-07-27 12:48:00	delivered	4238.37	pix	work	0.0	Cliente VIP
+1368	186	2024-07-04 15:35:00	delivered	-339.62	credit_card	work	15.0	
+1371	575	2024-06-02 14:10:00	pending	12486.9	debit_card	home	0.0	Urgente
+1284	431	2024-06-30 11:14:00	shipped	22347.3	credit_card	other	0.0	
+1435	189	2024-06-21 16:56:00	shipped	21697.76	debit_card	home	20.0	
+1354	4	2024-07-22 12:54:00	pending	16110.21	debit_card	delivery	15.0	Urgente
+1612	114	2024-07-21 12:58:00	cancelled	20676.79	boleto	work	5.0	
+1519	589	2024-06-21 17:30:00	pending	15922.61	credit_card	other	0.0	Parcelado
+1169	425	2024-07-22 16:54:00	pending	10397.28	pix	delivery	0.0	
+1193	501	2024-06-01 14:24:00	cancelled	3004.53	boleto	work	0.0	Cliente VIP
+1599	496	2024-06-11 16:31:00	pending	3979.68	pix	delivery	20.0	Cupom aplicado
+1325	113	2024-07-01 13:50:00	pending	1267.15	credit_card	delivery	0.0	
+1287	511	2024-07-26 10:20:00	pending	16899.0	debit_card	work	0.0	
+1101	292	2024-07-17 17:04:00	pending	12938.78	boleto	delivery	0.0	Cliente VIP
+1078	310	2024-07-14 18:38:00	pending	19388.41	boleto	other	0.0	Cupom aplicado
+1254	577	2024-07-05 20:44:00	pending	21631.12	boleto	work	0.0	
+1260	101	2024-07-08 18:19:00	pending	7621.14	boleto	home	0.0	
+1468	537	2024-06-25 20:30:00	processing	10403.04	credit_card	work	15.0	Cupom aplicado
+1080	525	2024-07-18 20:17:00	processing	17449.47	credit_card	other	15.0	
+1534	384	2024-06-24 09:09:00	shipped	19846.94	debit_card	delivery	0.0	
+1454	352	2024-06-02 15:17:00	pending	8717.47	pix	delivery	5.0	
+1343	374	2024-06-13 20:29:00	processing	2251.58	credit_card	delivery	0.0	
+1111	231	2024-06-21 09:59:00	pending	11787.33	pix	home	20.0	
+1233	48	2024-07-25 09:07:00	shipped	5266.36	credit_card	work	0.0	
+1054	266	2024-06-19 19:05:00	shipped	5041.16	credit_card	other	0.0	Urgente
+1121	121	2024-07-09 19:39:00	shipped	2017.48	debit_card	work	20.0	Cupom aplicado
+1402	579	2025-01-16 00:00:00	delivered	8689.05	credit_card	delivery	20.0	Presente
+1245	513	2024-06-06 09:25:00	cancelled	17381.19	credit_card	home	0.0	
+1485	493	2024-07-14 11:39:00	processing	1723.69	credit_card	delivery	0.0	Presente
+1058	173	2024-06-19 16:14:00	shipped	1990.25	boleto	work	0.0	Urgente
+1613	82	2024-07-04 16:15:00	processing	14398.82	boleto	other	0.0	Cupom aplicado
+1511	199	2024-07-06 14:00:00	delivered	6963.43	boleto	home	20.0	
+1459	85	2024-06-06 08:48:00	cancelled	23787.37	boleto	home	0.0	Cupom aplicado
+1207	394	2024-07-25 15:45:00	processing	8667.09	pix	delivery	15.0	
+1321	260	2024-07-20 16:13:00	processing	11311.35	boleto	home	20.0	
+1197	44	2024-07-14 20:20:00	pending	16110.47	boleto	work	10.0	Urgente
+1093	249	2024-07-26 14:52:00	cancelled	3015.38	boleto	other	0.0	Parcelado
+1481	326	2024-07-03 11:47:00	shipped	1958.6	pix	other	5.0	Cupom aplicado
+1300	386	2024-06-19 15:46:00	processing	19570.14	credit_card	delivery	20.0	Parcelado
+1504	565	2024-07-11 15:03:00	processing	1213.23	boleto	delivery	10.0	Parcelado
+1647	346	2024-07-19 15:57:00	delivered	10806.07	pix	delivery	20.0	Cupom aplicado
+1029	568	2024-07-22 16:18:00	processing	18888.55	debit_card	work	0.0	Urgente
+1001	382	2024-07-19 17:31:00	shipped	3911.29	credit_card	other	0.0	Presente
+1176	387	2024-07-19 19:31:00	cancelled	403.21	pix	other	15.0	Presente
+1030	404	2024-07-29 10:37:00	pending	714.88	debit_card	home	0.0	Urgente
+1355	557	2024-07-27 17:48:00	pending	5791.3	pix	work	15.0	Cliente VIP
+1109	598	2024-07-09 19:04:00	cancelled	5288.6	credit_card	work	0.0	
+1450	257	2024-06-06 09:40:00	processing	455.15	debit_card	delivery	0.0	Urgente
+1246	214	2024-07-01 10:24:00	processing	19342.98	credit_card	delivery	10.0	Cupom aplicado
+1535	283	2024-07-10 16:11:00	processing	-497.95	boleto	delivery	5.0	Cliente VIP
+1291	85	2024-06-21 18:34:00	processing	5697.6	pix	home	20.0	
+1488	232	2024-07-21 16:30:00	shipped	13454.85	boleto	other	0.0	Cliente VIP
+1083	48	2024-06-08 15:03:00	processing	7493.61	boleto	home	0.0	
+1192	560	2024-06-07 10:59:00	cancelled	9704.75	credit_card	work	20.0	
+1176	387	2024-07-19 19:31:00	cancelled	403.21	pix	other	15.0	Presente
+1443	316	2024-07-28 08:06:00	pending	7784.53	pix	work	0.0	Urgente
+1290	378	2024-06-29 08:15:00	processing	3652.67	pix	delivery	0.0	
+1340	54	2024-06-23 19:42:00	delivered	2393.6	boleto	home	15.0	Cliente VIP
+1156	414	2024-07-27 20:16:00	pending	11222.97	pix	other	15.0	Presente
+1417	296	2024-07-13 14:04:00	delivered	4438.84	boleto	work	15.0	Presente
+1339		2024-07-29 09:09:00	processing	7002.45	debit_card	delivery	15.0	Urgente
+1341	374	2024-07-16 17:27:00	delivered	11408.66	pix	home	10.0	Cupom aplicado
+1538	273	2024-07-20 17:54:00	delivered	23739.06	debit_card	delivery	20.0	
+1552	199	2024-07-10 08:04:00	pending	22773.84	pix	work	5.0	Urgente
+1117	41	2024-06-16 16:23:00	cancelled	17128.06	pix	home	15.0	Cliente VIP
+1431	228	2024-07-22 19:12:00	pending	6089.74	boleto	delivery	0.0	
+1324	96	2024-07-29 17:59:00	pending	24229.63	credit_card	home	0.0	Parcelado
+1375	440	2024-07-28 16:34:00	delivered	21856.25	debit_card	delivery	10.0	Presente
+1536	389	2024-07-20 13:37:00	delivered	8187.22	pix	work	15.0	Urgente
+1172	419	2024-06-13 08:56:00	shipped	5343.33	boleto	home	0.0	
+1183	300	2024-07-30 16:13:00	delivered	111.97	boleto	work	20.0	Presente
+1455	438	2024-07-22 17:55:00	shipped	8101.69	credit_card	other	5.0	Parcelado
+1151	155	2024-07-29 10:31:00	delivered	23483.87	boleto	home	5.0	Cupom aplicado
+1580	318	2024-06-21 18:53:00	cancelled	11403.36	debit_card	home	15.0	Cliente VIP
+1138	56	2024-06-23 16:28:00	shipped	6428.64	credit_card	work	0.0	Parcelado
+1048	420	2024-06-26 08:16:00	shipped	1362.66	pix	other	0.0	
+1489	98	2024-06-14 09:13:00	pending	4737.99	debit_card	delivery	10.0	Parcelado
+1404	36	2024-07-27 11:47:00	shipped	4293.94	pix	other	5.0	Cupom aplicado
+1316	191	2024-06-10 20:12:00	delivered	24599.95	credit_card	delivery	0.0	Cliente VIP
+1143	251	2024-07-25 08:51:00	cancelled	686.96	pix	other	5.0	Presente
+1385	590	2024-06-02 12:55:00	shipped	11544.89	pix	work	10.0	Cupom aplicado
+	198	2024-06-16 11:11:00	processing	1727.44	debit_card	delivery	15.0	Parcelado
+1576	13	2024-07-30 11:21:00	cancelled	12344.86	boleto	home	20.0	Cliente VIP
+1361	491	2024-06-26 10:42:00	processing	5942.8	pix	home	0.0	Cupom aplicado
+1601	20	2024-06-21 09:44:00	cancelled	8494.89	credit_card	work	0.0	
+1405	49	2024-06-18 08:38:00	processing	17136.83	boleto	delivery	0.0	
+1227	328	2024-06-28 12:08:00	delivered	10193.27	credit_card	work	20.0	Cupom aplicado
+1038	108	2024-06-20 11:42:00	cancelled	12153.55	boleto	work	0.0	Cliente VIP
+1057	103	2024-07-03 16:28:00	pending	12385.59	debit_card	work	0.0	
+1053	278	2024-06-28 09:28:00	processing	16848.72	debit_card	work	20.0	Cupom aplicado
+1590	449	2024-07-19 11:22:00	cancelled	4351.08	credit_card	other	10.0	
+1421		2024-06-18 16:14:00	cancelled	5734.46	debit_card	home	20.0	Parcelado
+1452	552	2024-07-09 11:15:00	delivered	23479.81	boleto	other	10.0	Urgente
+1104	268	2024-07-06 17:25:00	cancelled	20690.71	credit_card	delivery	5.0	
+1102	554	2024-06-28 18:20:00	delivered	18569.93	debit_card	delivery	0.0	Parcelado
+1305	142	2024-06-25 18:33:00	cancelled	5555.64	boleto	home	0.0	Urgente
+1159	131	2024-06-09 19:14:00	shipped	2580.57	credit_card	work	15.0	
+1206	382	2024-06-05 16:22:00	shipped	14597.75	boleto	home	5.0	Presente
+1554	275	2024-07-04 08:12:00	pending	22858.61	debit_card	delivery	20.0	Cupom aplicado
+1247	568	2024-07-28 19:01:00	processing	6913.63	debit_card	home	0.0	
+1639	472	2024-07-27 09:19:00	processing	10590.27	credit_card	home	0.0	
+1561	440	2024-07-03 12:49:00	shipped	23480.53	pix	other	15.0	
+1291	85	2024-06-21 18:34:00	processing	5697.6	pix	home	20.0	
+1249	304	2024-06-23 20:25:00	processing	11527.18	pix	home	0.0	Cupom aplicado
+1512	18	2024-06-14 13:07:00	shipped	13050.28	pix	work	10.0	
+1477	419	2024-06-24 14:22:00	processing	7298.02	pix	delivery	0.0	Parcelado
+1386	390	2024-07-28 10:51:00	pending	13113.09	boleto	work	10.0	Presente
+1476	78	2024-06-21 20:30:00	processing	14729.55	credit_card	home	10.0	Urgente
+1410	478	2024-07-18 16:37:00	delivered	4645.39	credit_card	home	0.0	
+1234	530	2024-06-25 09:50:00	processing	6391.29	boleto	delivery	0.0	
+1513	584	2024-06-19 12:04:00	pending	20231.51	credit_card	delivery	0.0	Urgente
+1013	413	2024-07-18 10:29:00	processing	4442.71	debit_card	other	0.0	
+1490	429	2025-10-03 00:00:00	shipped	15568.88	pix	work	15.0	
+1447	333	2024-06-06 18:40:00	cancelled	4518.05	credit_card	home	0.0	Presente
+1492	532	2024-07-24 09:24:00	cancelled	13473.98	credit_card	work	0.0	
+1333	522	2024-06-11 12:10:00	processing	22640.26	boleto	delivery	10.0	
+1135	54	2024-06-21 19:26:00	processing	10239.24	boleto	work	0.0	Cupom aplicado
+1240	380	2024-06-11 12:56:00	shipped	9875.42	pix	work	0.0	Presente
+1036	585	2024-07-08 10:42:00	cancelled	7919.29	debit_card	delivery	0.0	Presente
+1265	353	2024-06-22 10:20:00	delivered	22340.85	credit_card	work	15.0	Parcelado
+1130	243	2024-07-11 08:09:00	pending	8507.15	debit_card	other	20.0	Parcelado
+1261	123	2024-06-09 16:29:00	shipped	22720.53	credit_card	work	5.0	Cliente VIP
+1140	327	2024-07-17 15:07:00	pending	23313.52	boleto	other	15.0	Urgente
+1303	76	2024-07-22 19:39:00	processing	16895.52	boleto	other	15.0	Cliente VIP
+1625	465	2024-06-27 09:55:00	shipped	11317.62	boleto	work	20.0	Parcelado
+1299	353	2024-07-17 20:13:00	processing	9657.45	boleto	other	20.0	
+1577	197	2024-06-03 13:26:00	pending	7621.38	debit_card	delivery	15.0	Cupom aplicado
+1326	63	2024-06-18 11:04:00	delivered	8531.2	debit_card	delivery	0.0	
+1397	66	2024-06-08 19:21:00	pending	15736.3	debit_card	home	10.0	Presente
+1194	569	2024-06-10 14:35:00	processing	22636.95	boleto	delivery	10.0	Cliente VIP
+1007	387	2024-07-14 11:09:00	pending	17674.82	pix	work	15.0	Cupom aplicado
+1478	433	2024-06-24 11:21:00	processing	3296.75	boleto	other	0.0	
+1307	75	2024-06-14 10:16:00	cancelled	12579.96	boleto	other	10.0	Presente
+1555	575	2024-07-23 10:24:00	cancelled	21252.51	debit_card	other	0.0	Cliente VIP
+1205	378	2024-07-29 19:42:00	processing	5707.8	debit_card	delivery	0.0	Cupom aplicado
+1267	227	2024-06-04 08:23:00	shipped	8729.24	boleto	work	0.0	Parcelado
+1635	318	2024-07-10 12:59:00	pending	-423.19	credit_card	delivery	15.0	Cliente VIP
+1570	146	2024-07-08 14:29:00	delivered	2990.66	pix	work	0.0	Presente
+1638	1	2024-06-30 14:04:00	shipped	7894.02	boleto	delivery	15.0	Cupom aplicado
+1032	509	2024-06-26 11:04:00	shipped	6982.41	credit_card	home	5.0	
+1011	264	2024-07-20 08:20:00	shipped	1491.34	boleto	other	5.0	Parcelado
+1518	433	2024-07-02 14:40:00	pending	10010.57	pix	work	5.0	Urgente
+1642	47	2024-06-23 18:02:00	delivered	10036.42	debit_card	other	5.0	
+1020	444	2024-06-16 16:00:00	cancelled	9972.52	pix	delivery	0.0	
+1530	65	2024-06-07 17:44:00	cancelled	8758.09	boleto	work	20.0	Parcelado
+1116	255	2024-07-09 20:45:00	processing	13513.66	debit_card	other	5.0	
+1165	581	2024-07-20 20:24:00	cancelled	142.4	boleto	work	0.0	Cupom aplicado
+1640	292	2024-07-19 20:26:00	pending	15017.36	boleto	home	10.0	Presente
+1437	569	2024-06-17 13:14:00	delivered	1365.3	debit_card	home	20.0	Cliente VIP
+1619	237	2024-06-04 17:48:00	shipped	15756.71	credit_card	home	15.0	Parcelado
+1209	79	2024-07-03 18:06:00	cancelled	20861.51	pix	home	0.0	Urgente
+	490	2024-06-02 20:28:00	cancelled	5989.03	credit_card	delivery	10.0	Parcelado
+1171	417	2024-07-29 16:27:00	processing	20523.51	credit_card	home	5.0	
+1330	530	2024-06-28 09:05:00	delivered	9665.17	pix	work	15.0	Presente
+1479	38	2024-06-17 15:01:00	cancelled	1799.89	debit_card	delivery	10.0	Parcelado
+1309	350	2024-07-28 11:58:00	pending	19484.61	credit_card	other	20.0	Parcelado
+1274	280	2024-06-06 08:46:00	shipped	20073.2	debit_card	delivery	20.0	
+1014	476	2025-05-04 00:00:00	delivered	24219.36	credit_card	other	0.0	
+1042	59	2024-06-11 13:29:00	shipped	6909.61	pix	delivery	15.0	Presente
+1019	424	2024-07-24 15:11:00	shipped	5635.65	credit_card	other	0.0	Urgente
+1429	421	2024-06-14 15:58:00	pending	20987.53	debit_card	home	5.0	
+1557	201	2024-07-21 20:10:00	processing	4018.63	boleto	home	0.0	Cliente VIP
+1192	560	2024-06-07 10:59:00	cancelled	9704.75	credit_card	work	20.0	
+1124	373	2024-07-16 12:18:00	pending	16988.43	debit_card	work	0.0	Cliente VIP
+1204	151	2024-07-13 15:14:00	delivered	19361.86	debit_card	home	0.0	
+1616	586	2024-06-04 20:51:00	cancelled	16035.61	debit_card	delivery	5.0	Cupom aplicado
+1179	320	2024-06-10 08:14:00	delivered	11805.51	boleto	other	0.0	Parcelado
+	383	2024-06-02 15:46:00	cancelled	20410.79	boleto	other	0.0	Cupom aplicado
+1285	96	2024-07-30 11:26:00	pending	22478.0	credit_card	work	0.0	Presente
+1634	37	2024-07-31 15:49:00	cancelled	6274.11	pix	home	0.0	Presente
+1360	486	2024-06-27 19:55:00	pending	2640.86	boleto	other	5.0	
+1034	235	2024-06-07 15:23:00	delivered	10617.57	pix	other	0.0	
+1120	520	2024-07-28 08:48:00	delivered	12664.4	boleto	home	10.0	
+1180	117	2024-07-13 12:04:00	delivered	24836.07	debit_card	work	0.0	
+1499	101	2024-06-10 14:39:00	cancelled	3859.8	boleto	delivery	15.0	
+1415	363	2024-06-26 09:08:00	delivered	11043.4	debit_card	home	0.0	Parcelado
+1389	428	2024-06-09 15:11:00	pending	5034.84	boleto	delivery	5.0	
+1219	498	2024-07-14 15:24:00	shipped	7500.76	credit_card	home	0.0	Parcelado
+1086	479	2024-07-11 12:05:00	cancelled		credit_card	other	20.0	
+1115	3	2024-06-04 12:00:00	pending	8007.32	pix	home	10.0	Urgente
+1009	530	2024-07-29 16:25:00	processing	17363.32	pix	work	0.0	
+1198	287	2024-06-17 08:19:00	cancelled	2661.44	credit_card	delivery	0.0	Urgente
+1641	401	2024-07-13 09:24:00	cancelled	10220.35	boleto	delivery	0.0	Parcelado
+1621	14	2024-07-27 08:40:00	shipped	-437.58	debit_card	work	0.0	Urgente
+1037	109	2024-06-05 13:44:00	shipped	7978.92	pix	work	15.0	
+1154	508	2024-06-18 08:43:00	delivered	18977.31	debit_card	other	5.0	Cupom aplicado
+1208	499	2025-08-19 00:00:00	cancelled	1637.77	credit_card	delivery	0.0	
+1524	197	2024-07-24 08:05:00	shipped	16322.55	debit_card	work	0.0	
+1418		2024-07-31 18:07:00	delivered	2464.13	pix	work	15.0	
+1575	312	2024-06-04 20:48:00	cancelled	2215.08	pix	delivery	10.0	Cliente VIP
+1046	566	2024-06-27 11:37:00	processing	2311.37	debit_card	work	0.0	Urgente
+1148	218	2024-06-20 15:42:00	cancelled	22241.97	credit_card	other	0.0	Parcelado
+1501	257	2024-06-09 20:47:00	cancelled	20614.44	debit_card	work	15.0	
+1383	5	2024-06-20 13:01:00	cancelled	5282.38	debit_card	home	0.0	Cliente VIP
+1202	238	2024-07-23 20:27:00	delivered	20369.35	credit_card	other	0.0	
+1493	43	2024-07-17 08:12:00	pending	21660.39	debit_card	delivery	0.0	
+1527	308	2024-07-06 08:04:00	shipped	10993.85	debit_card	delivery	20.0	Cupom aplicado
+1055	295	2024-06-08 19:12:00	delivered	22374.24	pix	other	5.0	
+1579	266	2024-06-08 20:35:00	delivered	21648.44	boleto	home	0.0	Cupom aplicado
+1127	548	2024-06-20 08:08:00	cancelled	198.05	boleto	other	0.0	Parcelado
+1071	338	2024-07-14 17:51:00	delivered	5170.81	boleto	work	0.0	
+1483	151	2024-07-16 17:01:00	processing	8610.12	pix	home	10.0	
+1310	439	2024-06-26 12:11:00	processing	9251.5	debit_card	other	0.0	Urgente
+1542	384	2024-06-30 11:39:00	processing	3656.87	pix	delivery	0.0	
+1507	566	2024-06-02 10:50:00	processing	10491.74	pix	delivery	5.0	Urgente
+1528	498	2024-06-07 13:20:00	delivered	8658.94	debit_card	other	0.0	Cupom aplicado
+1497	546	2024-06-06 18:45:00	pending	22205.57	boleto	delivery	10.0	Urgente
+1472	321	2024-07-15 08:32:00	cancelled	15156.03	boleto	delivery	20.0	Cliente VIP
+1315	221	2024-06-17 18:56:00	processing	14409.38	pix	other	20.0	Parcelado
+1298	66	2024-07-03 19:23:00	cancelled	18190.97	debit_card	work	0.0	Urgente
+1322	554	2024-07-09 14:31:00	pending	9560.64	pix	delivery	10.0	Urgente
+1317	475	2024-07-25 10:23:00	cancelled	16403.17	boleto	home	0.0	Presente
+1235	191	2024-07-03 14:19:00	shipped	10733.45	credit_card	work	0.0	Cupom aplicado
+1136	11	2024-06-19 15:55:00	delivered	10182.26	debit_card	work	0.0	
+1231		2024-07-26 14:27:00	processing	13006.66	debit_card	work	20.0	
+1107	168	2024-06-21 11:04:00	delivered	7927.86	boleto	home	0.0	
+1509	97	2024-07-28 14:21:00	shipped	-334.96	boleto	other	15.0	Cupom aplicado
+1440	96	2024-06-27 14:32:00	processing	15561.38	debit_card	other	5.0	
+1110	318	2024-06-18 15:18:00	pending	12359.84	credit_card	other	15.0	Cupom aplicado
+1228	203	2024-06-16 20:46:00	shipped	18588.97	credit_card	other	0.0	
+1028	61	2024-06-08 17:56:00	shipped	19915.53	credit_card	work	20.0	Cupom aplicado
+1275	253	2024-06-23 18:01:00	shipped	24181.19	boleto	work	0.0	
+1589	211	2024-07-07 17:57:00	processing	12450.16	debit_card	other	0.0	
+1056	214	2024-07-21 12:38:00	cancelled	20478.78	boleto	home	5.0	Parcelado
+1276	8	2024-07-21 14:18:00	shipped	13935.24	credit_card	other	10.0	Presente
+1484	169	2024-07-15 11:44:00	processing	4689.02	boleto	delivery	20.0	
+1336	63	2024-06-11 13:08:00	shipped	10690.35	debit_card	home	20.0	Cliente VIP
+1469	312	2024-07-14 12:13:00	shipped	19533.01	boleto	work	0.0	
+1603	70	2024-06-04 12:25:00	delivered	18506.02	credit_card	delivery	0.0	Cupom aplicado
+1583	223	2024-07-24 09:34:00	shipped	21418.31	pix	work	5.0	
+1637		2024-07-21 14:07:00	processing	1907.02	pix	other	0.0	Parcelado
+1553	233	2024-06-28 14:54:00	processing	17821.04	boleto	other	20.0	
+1279	132	2024-07-06 08:11:00	cancelled	23162.14	debit_card	home	5.0	Presente
+1400	463	2024-06-14 10:32:00	delivered	15378.83	credit_card	other	0.0	
+1363	405	2024-07-23 13:10:00	cancelled	17867.41	credit_card	other	0.0	Presente
+1624	477	2024-07-17 20:15:00	pending	5109.59	credit_card	home	15.0	
+1108	508	2024-06-13 18:10:00	shipped	10505.08	debit_card	home	0.0	Parcelado
+1633	307	2024-07-31 13:25:00	pending	3948.84	pix	home	0.0	Parcelado
+1023	464	2024-06-26 18:21:00	delivered	13846.43	pix	delivery	0.0	Cliente VIP
+1071	338	2024-07-14 17:51:00	delivered	5170.81	boleto	work	0.0	
+1218	132	2024-06-25 11:04:00	shipped	16088.97	pix	delivery	10.0	
+1470	155	2024-06-13 11:23:00	delivered	17865.88	credit_card	other	0.0	
+1516	171	2024-06-24 20:42:00	cancelled	21822.3	debit_card	work	15.0	
+1304	490	2024-07-11 14:13:00	processing	17114.65	credit_card	delivery	10.0	
+1103	155	2024-06-04 16:11:00	processing	-301.93	boleto	other	10.0	
+1465	309	2024-07-03 20:04:00	processing	7223.61	debit_card	other	20.0	
+1396	149	2024-07-06 10:50:00	pending	3356.15	pix	delivery	5.0	Cupom aplicado
+1049	292	2024-07-12 08:01:00	cancelled	18446.2	credit_card	work	0.0	Parcelado
+1282	586	2024-06-20 19:49:00	shipped	22375.07	credit_card	other	10.0	Cupom aplicado
+1002	20	2024-06-10 12:50:00	shipped	10600.09	boleto	other	0.0	
+1425	492	2024-06-22 18:28:00	cancelled	20824.12	boleto	delivery	10.0	Cliente VIP
+1370	24	2024-06-26 18:41:00	processing	4093.09	debit_card	other	10.0	Presente
+1515	570	2024-06-17 16:48:00	cancelled	10376.04	pix	other	15.0	
+1254	577	2024-07-05 20:44:00	pending	21631.12	boleto	work	0.0	
+1462		2024-07-30 12:20:00	pending	19549.4	boleto	work	5.0	Parcelado
+1559	382	2024-07-15 11:11:00	shipped	23117.12	credit_card	home	20.0	Parcelado
+1318	543	2025-06-06 00:00:00	processing	4866.96	debit_card	home	10.0	Urgente
+1003	453	2024-06-07 08:29:00	cancelled	9073.2	pix	other	10.0	Presente
+1456	469	2024-06-08 20:35:00	pending	14818.31	pix	delivery	0.0	Cliente VIP
+1119	243	2024-06-22 19:26:00	pending	15142.25	boleto	delivery	0.0	
+1586	467	2024-06-10 10:24:00	processing	8479.37	credit_card	work	10.0	
+1161	168	2024-06-09 11:52:00	cancelled	7639.37	boleto	delivery	0.0	
+1238	414	2024-06-24 13:36:00	shipped	22435.76	debit_card	delivery	20.0	Presente
+1592	411	2024-07-23 19:56:00	delivered	24359.07	debit_card	home	5.0	Parcelado
+1351	89	2024-06-20 18:47:00	pending	14751.2	pix	delivery	0.0	
+1010	27	2024-07-14 16:53:00	processing	14463.83	credit_card	delivery	10.0	Cliente VIP
+1320	116	2024-06-05 10:56:00	processing	23731.25	credit_card	delivery	10.0	Urgente
+1562	77	2024-06-17 18:33:00	processing	24370.7	credit_card	home	0.0	Cliente VIP
+1114	98	2024-06-21 15:16:00	cancelled	9175.28	credit_card	other	0.0	Cliente VIP
+1107	168	2024-06-21 11:04:00	delivered	7927.86	boleto	home	0.0	
+	490	2024-06-02 20:28:00	cancelled	5989.03	credit_card	delivery	10.0	Parcelado
+1173	341	2024-07-17 08:34:00	cancelled	24578.82	pix	home	0.0	Urgente
+1203	492	2024-06-14 20:31:00	processing	8908.86	boleto	delivery	5.0	
+1096	421	2024-07-07 17:08:00	delivered	24164.13	boleto	work	0.0	Parcelado
+1288	525	2024-06-01 20:02:00	delivered	7729.9	pix	delivery	0.0	Cupom aplicado
+1289	336	2024-07-05 13:20:00	cancelled	9635.05	boleto	other	0.0	
+1017	408	2024-06-18 15:53:00	delivered	21715.36	boleto	other	20.0	
+1226	423	2025-07-05 00:00:00	pending	13735.11	boleto	home	0.0	Cupom aplicado
+1047	584	2024-07-07 10:38:00	pending	16395.32	boleto	work	20.0	Cliente VIP
+1065	135	2024-07-14 14:48:00	cancelled	22538.15	credit_card	delivery	15.0	Urgente
+1297		2024-07-12 08:11:00	shipped	9450.67	debit_card	delivery	5.0	Urgente
+1217	312	2024-07-25 14:58:00	shipped	20234.63	credit_card	home	10.0	Cupom aplicado
+1566	537	2024-07-25 16:25:00	shipped	9778.72	debit_card	home	0.0	
+1574	492	2024-06-20 13:58:00	cancelled	17272.15	pix	home	0.0	
+1420	398	2024-06-21 14:34:00	delivered	22564.72	credit_card	work	5.0	Presente
+1648	311	2024-06-16 20:05:00	delivered	23303.33	credit_card	home	0.0	Parcelado
+1312	524	2024-06-19 17:27:00	shipped	14464.98	pix	home	0.0	Urgente
+1147	187	2024-06-02 17:06:00	pending	15440.3	debit_card	work	10.0	Urgente
+1388	81	2024-07-01 18:57:00	shipped	7850.91	debit_card	other	15.0	
+1323	137	2024-06-02 16:23:00	shipped	20856.87	credit_card	work	0.0	Urgente
+1129	440	2024-06-18 08:39:00	pending	5447.99	credit_card	home	0.0	
+1303	76	2024-07-22 19:39:00	processing	16895.52	boleto	other	15.0	Cliente VIP
+1128	54	2024-06-26 11:02:00	processing	258.57	credit_card	work	15.0	
+1582	271	2024-07-26 13:07:00	shipped	22427.77	credit_card	delivery	15.0	Cliente VIP
+1514	575	2024-06-16 17:22:00	delivered	16008.1	pix	work	0.0	Cupom aplicado
+1095	596	2024-06-20 17:52:00	processing	1309.82	pix	work	10.0	Cupom aplicado
+1466	201	2024-06-21 16:22:00	pending	2032.59	debit_card	other	10.0	Cupom aplicado
+1271	422	2024-06-27 16:38:00	shipped	20114.94	credit_card	other	0.0	
+1026	381	2024-07-20 12:56:00	cancelled	6513.18	credit_card	work	0.0	
+1088	180	2024-07-30 14:12:00	shipped	5497.56	boleto	work	15.0	Urgente
+1393	319	2024-06-22 08:45:00	cancelled	13519.28	debit_card	other	5.0	Presente
+1007	387	2024-07-14 11:09:00	pending	17674.82	pix	work	15.0	Cupom aplicado
+1419	303	2024-07-03 11:07:00	cancelled	5219.78	boleto	delivery	5.0	
+1588	420	2024-07-21 16:30:00	delivered	22264.74	boleto	delivery	5.0	
+1255	558	2025-07-11 00:00:00	shipped	17773.88	credit_card	home	0.0	Urgente
+1600	116	2024-07-01 18:36:00	shipped	258.03	debit_card	work	10.0	
+1270	228	2024-06-01 14:32:00	delivered	6553.82	boleto	home	0.0	
+1125	297	2024-06-25 19:04:00	cancelled	6134.75	pix	other	20.0	Cliente VIP
+1602	4	2024-06-06 19:56:00	shipped	6826.12	boleto	delivery	10.0	Cliente VIP
+1390	144	2024-07-25 09:42:00	delivered	10608.24	debit_card	other	0.0	
+1157	223	2024-07-08 19:49:00	delivered	20974.12	pix	home	0.0	Cupom aplicado
+1033	275	2024-07-12 09:36:00	delivered	24650.29	credit_card	work	0.0	Cupom aplicado
+1546	128	2024-07-06 13:45:00	shipped	12979.08	debit_card	other	0.0	Parcelado
+1113	198	2024-06-17 08:38:00	cancelled	12746.59	pix	delivery	10.0	
+1076	331	2024-07-27 20:13:00	processing	11465.6	credit_card	other	20.0	Urgente
+1232	33	2024-06-21 11:55:00	processing	4443.63	pix	other	0.0	
+1043	555	2024-06-11 20:20:00	delivered	19723.95	credit_card	delivery	5.0	Cliente VIP
+1376	576	2024-07-18 11:42:00	shipped	23620.26	debit_card	other	20.0	Cliente VIP
+1308	491	2024-07-19 16:45:00	delivered	5082.47	boleto	other	0.0	
+1079	66	2024-07-10 13:52:00	processing		pix	work	0.0	Presente
+1474	457	2024-07-18 15:50:00	pending	19610.98	boleto	other	5.0	Cupom aplicado
+1241	418	2024-06-09 20:40:00	cancelled	8510.08	debit_card	work	0.0	Presente
+1473	384	2024-07-10 12:43:00	processing	20990.79	pix	work	10.0	Parcelado
+1251	420	2024-06-29 18:01:00	cancelled	8249.42	credit_card	home	0.0	Cupom aplicado
+1073	121	2024-07-15 15:03:00	cancelled	17518.93	credit_card	other	15.0	Cliente VIP
+1196	14	2024-07-22 15:28:00	pending	21004.6	debit_card	home	0.0	Parcelado
+1403	281	2024-06-21 08:00:00	processing		boleto	work	10.0	Cliente VIP
+1558	560	2024-07-07 20:09:00	cancelled	9888.08	pix	other	0.0	Urgente
+1550	600	2024-06-28 15:25:00	shipped	19775.12	boleto	work	0.0	Parcelado
+1258	62	2024-06-14 13:12:00	pending	14158.54	credit_card	other	20.0	
+1153	516	2024-07-21 12:08:00	pending	987.86	boleto	delivery	15.0	
+1569	118	2024-07-16 17:28:00	pending	18447.93	pix	home	0.0	Cupom aplicado
+1266	67	2024-07-30 19:29:00	cancelled	6934.06	pix	other	5.0	Urgente
+1164	479	2024-07-18 17:38:00	shipped	18838.28	pix	other	15.0	Cliente VIP
+1149	337	2024-07-24 12:44:00	delivered	23153.22	pix	other	10.0	
+1016	436	2024-07-08 08:13:00	processing	22467.28	boleto	home	0.0	Urgente
+1160	107	2024-06-22 17:18:00	shipped	456.18	credit_card	work	15.0	Cliente VIP
+1631	248	2024-06-15 13:02:00	pending	3181.47	debit_card	delivery	0.0	
+1311	354	2024-06-15 20:58:00	shipped	7884.61	boleto	other	5.0	Urgente
+1289	336	2025-10-21 00:00:00	cancelled	9635.05	boleto	other	0.0	
+1565		2024-06-27 18:30:00	pending	4679.19	credit_card	other	0.0	
+1331	68	2024-07-01 08:46:00	pending	24477.07	debit_card	delivery	0.0	Urgente
+1627	373	2024-07-22 12:36:00	processing	5818.3	boleto	home	0.0	Parcelado
+1401	564	2024-06-16 14:36:00	shipped	17000.93	boleto	other	0.0	
+1486	545	2024-06-25 14:02:00	shipped	6128.64	credit_card	delivery	5.0	Parcelado
+1144	148	2024-07-15 19:38:00	processing	3374.79	boleto	delivery	0.0	
+1335	350	2024-06-14 10:57:00	processing	9636.94	debit_card	delivery	0.0	
+1085	304	2024-07-24 12:53:00	pending	529.95	debit_card	delivery	10.0	
+1427	98	2024-07-06 17:34:00	pending	12338.22	pix	other	20.0	Presente
+1199	53	2024-07-12 19:06:00	processing	19842.29	credit_card	work	5.0	Cliente VIP
+1391	435	2024-06-02 16:16:00	cancelled	16392.28	boleto	work	0.0	
+1571	408	2024-07-17 10:49:00	processing	135.91	debit_card	home	5.0	
+1598	493	2024-06-03 09:39:00	shipped	24113.23	debit_card	work	10.0	Cliente VIP
+1035	521	2024-07-11 14:16:00	processing	22264.38	boleto	home	5.0	Presente
+1629	253	2024-06-02 15:14:00	processing	20964.5	debit_card	home	0.0	Presente
+1498	321	2024-06-21 15:26:00	delivered	20015.47	pix	delivery	0.0	
+1283	51	2024-07-15 12:22:00	cancelled	13603.34	credit_card	other	0.0	
+1301	107	2024-07-29 09:42:00	delivered	10546.91	boleto	delivery	0.0	Parcelado
+1567	305	2024-07-12 13:50:00	cancelled	7497.77	credit_card	other	0.0	Parcelado
+1540	295	2024-07-10 12:15:00	shipped	12119.68	debit_card	delivery	0.0	Cliente VIP
+1500	106	2024-06-02 14:06:00	delivered	9544.3	credit_card	home	0.0	
+1131	376	2024-06-15 09:36:00	processing	1089.32	boleto	home	0.0	Cliente VIP
+1594	50	2024-06-03 20:24:00	shipped	22150.23	pix	delivery	10.0	Cliente VIP
+1223	469	2024-07-04 16:29:00	shipped	3393.54	credit_card	delivery	0.0	Parcelado
+1185	577	2024-06-20 14:39:00	pending	23199.88	debit_card	work	5.0	
+1118	13	2024-06-10 14:20:00	shipped	22537.31	pix	other	15.0	Presente
+1556	271	2024-07-16 20:51:00	cancelled	13101.05	boleto	home	0.0	
+1260	101	2024-07-08 18:19:00	pending	7621.14	boleto	home	0.0	
+1442	277	2024-06-07 19:39:00	processing	1580.11	debit_card	work	15.0	Presente
+1413	373	2024-06-27 17:30:00	delivered	9767.6	credit_card	work	5.0	Cupom aplicado
+1423	287	2024-06-05 08:58:00	delivered	17155.47	credit_card	home	10.0	Cliente VIP
+1072	516	2024-07-19 15:25:00	shipped	15960.09	credit_card	delivery	10.0	
+1345	99	2024-06-03 09:25:00	processing	816.62	credit_card	work	5.0	Parcelado
+1013	413	2024-07-18 10:29:00	processing	4442.71	debit_card	other	0.0	
+1520	338	2024-07-09 18:10:00	cancelled	13459.31	boleto	delivery	0.0	
+1170	263	2024-07-26 12:16:00	cancelled	11834.07	pix	home	0.0	Presente
+1645	533	2024-07-19 17:37:00	cancelled	16056.47	pix	delivery	10.0	Presente
+1529	274	2024-07-30 19:52:00	processing	1249.45	pix	work	5.0	Urgente
+1282	586	2024-06-20 19:49:00	shipped	22375.07	credit_card	other	10.0	Cupom aplicado
+1269	371	2024-06-26 13:01:00	pending	16600.22	credit_card	delivery	20.0	Urgente
+1045	163	2024-06-12 10:55:00	pending	8849.02	boleto	work	20.0	Urgente
+1578		2024-06-06 14:16:00	processing	15798.32	pix	work	0.0	Cliente VIP
+1532	92	2024-07-29 10:24:00	shipped	15203.09	boleto	other	15.0	Urgente
+1378		2024-07-03 17:18:00	delivered	15271.56	debit_card	delivery	0.0	Presente
+1019	424	2024-07-24 15:11:00	shipped	5635.65	credit_card	other	0.0	Urgente
+1081	515	2024-07-26 08:24:00	shipped	16961.1	pix	home	0.0	Cupom aplicado
+1369	201	2024-06-02 09:06:00	processing	379.06	boleto	home	5.0	Urgente
+1189	474	2024-07-03 09:22:00	shipped	1498.96	pix	delivery	10.0	Cupom aplicado
+1105	88	2024-07-01 18:23:00	pending	10241.8	credit_card	other	10.0	Parcelado
+1463	139	2024-07-23 19:47:00	processing	10894.05	boleto	work	0.0	Cliente VIP
+1480	80	2024-06-06 17:44:00	cancelled	18403.15	pix	home	0.0	
+1392	240	2024-06-06 17:53:00	pending	5909.96	pix	home	5.0	Cliente VIP
+1382	5	2024-06-16 16:59:00	delivered	13999.37	pix	home	0.0	
+1040	553	2024-07-21 09:37:00	pending	13591.11	boleto	home	5.0	Cliente VIP
+1294	487	2024-07-25 08:25:00	processing	18800.51	debit_card	home	20.0	Presente
+1230	99	2024-06-19 20:09:00	delivered	2622.18	credit_card	delivery	0.0	
+1133	289	2024-07-15 12:59:00	cancelled	13958.03	credit_card	other	0.0	Parcelado
+1039	130	2024-06-24 19:47:00	processing	2380.85	debit_card	delivery	15.0	Parcelado

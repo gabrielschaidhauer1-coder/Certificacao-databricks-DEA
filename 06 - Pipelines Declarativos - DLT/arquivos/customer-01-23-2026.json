@@ -1,0 +1,78 @@
+[
+  {
+    "customer_id": 424,
+    "name": "Larissa Nascimento",
+    "email": "larissa.nascimento@email.com",
+    "created_at": "2024-05-16",
+    "addresses": [
+      { "type": "home", "city": "Manaus", "state": "AM", "zip": "69010-970" },
+      { "type": "work", "city": "Rio de Janeiro", "state": "RJ", "zip": "22041-199" }
+    ],
+    "phones": [
+      "+55-48-92926-3606",
+      "+55-62-99012-7693"
+    ],
+    "preferences": {
+      "newsletter": false,
+      "sms": false,
+      "categories": ["home", "books"]
+    },
+    "purchase_history": [4299.5, 2489.27, 2335.6]
+  },
+  {
+    "customer_id": 425,
+    "name": "Bruno Almeida",
+    "email": "bruno.almeida@email.com",
+    "created_at": "2024-06-02",
+    "addresses": [
+      { "type": "home", "city": "São Paulo", "state": "SP", "zip": "01010-000" }
+    ],
+    "phones": [
+      "+55-11-98888-7777"
+    ],
+    "preferences": {
+      "newsletter": true,
+      "sms": false,
+      "categories": ["electronics", "games"]
+    },
+    "purchase_history": [899.9, 1299.0]
+  },
+  {
+    "customer_id": 426,
+    "name": "Camila Rocha",
+    "email": "camila.rocha@email.com",
+    "created_at": "2024-07-18",
+    "addresses": [
+      { "type": "home", "city": "Curitiba", "state": "PR", "zip": "80010-120" },
+      { "type": "delivery", "city": "Florianópolis", "state": "SC", "zip": "88010-001" }
+    ],
+    "phones": [
+      "+55-41-97777-6666",
+      "+55-48-96666-5555"
+    ],
+    "preferences": {
+      "newsletter": true,
+      "sms": true,
+      "categories": ["fashion", "beauty"]
+    },
+    "purchase_history": [199.9, 349.9, 129.9]
+  },
+  {
+    "customer_id": 427,
+    "name": "Rafael Mendes",
+    "email": "rafael.mendes@email.com",
+    "created_at": "2024-08-05",
+    "addresses": [
+      { "type": "home", "city": "Belo Horizonte", "state": "MG", "zip": "30110-028" }
+    ],
+    "phones": [
+      "+55-31-95555-4444"
+    ],
+    "preferences": {
+      "newsletter": false,
+      "sms": true,
+      "categories": ["automotive", "tools"]
+    },
+    "purchase_history": [2599.0]
+  }
+]

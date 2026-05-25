@@ -1,0 +1,10 @@
+{"cliente_id": 31, "nome": "Fabiana Costa Rodrigues", "email": "fabiana.costa.r@gmail.com", "valor_compra": 980.50, "cidade": "Americana", "observacao": "Solicitou entrega no período da manhã"}
+{"cliente_id": 32, "nome": "Henrique Alves Pereira", "email": "henrique.alves@outlook.com", "valor_compra": 1675.00, "cidade": "Franca", "observacao": "Cliente corporativo - descontos aplicados conforme contrato"}
+{"cliente_id": 33, "nome": "Camila Beatriz Santos", "email": "camila.b.santos@hotmail.com", "valor_compra": 320.90, "cidade": "Marília", "observacao": "Primeira compra após cadastro por indicação"}
+{"cliente_id": 34, "nome": "Rodrigo Fernandes Lima", "email": "rodrigo.f.lima@yahoo.com.br", "valor_compra": 2890.00, "cidade": "Presidente Prudente", "observacao": "Pedido especial - kit personalizado para evento empresarial"}
+{"cliente_id": 35, "nome": "Juliana Ribeiro Dias", "email": "ju.ribeiro.dias@gmail.com", "valor_compra": 745.80, "cidade": "São Carlos", "observacao": "Utilizar cupom BLACKFRIDAY2024 - 15% desconto aplicado"}
+{"cliente_id": 36, "nome": "Marcos Paulo Cardoso", "email": "marcospaulo.cardoso@uol.com.br", "valor_compra": 1520.00, "cidade": "Araçatuba", "observacao": "Cliente preferencial - pontos dobrados nesta compra"}
+{"cliente_id": 37, "nome": "Patricia Mendes Oliveira", "email": "patricia.m.oliveira@gmail.com", "valor_compra": 610.40, "cidade": "Botucatu", "observacao": "Endereço de entrega diferente do cadastro - validado"}
+{"cliente_id": 38, "nome": "Felipe Augusto Barros", "email": "felipe.a.barros@outlook.com", "valor_compra": 3450.00, "cidade": "Rio Claro", "observacao": "Compra parcelada em 10x sem juros - aprovada"}
+{"cliente_id": 39, "nome": "Renata Silva Moura", "email": "renata.s.moura@hotmail.com", "valor_compra": 875.60, "cidade": "Taubaté", "observacao": "Agendar entrega para próxima segunda-feira"}
+{"cliente_id": 40, "nome": "Bruno Henrique Costa", "email": "bruno.h.costa@gmail.com", "valor_compra": 1990.00, "cidade": "Guarulhos", "observacao": "Cliente aniversariante - brinde especial incluído no pedido"}

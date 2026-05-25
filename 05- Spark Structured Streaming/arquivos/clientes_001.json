@@ -1,0 +1,10 @@
+{"cliente_id": 1, "nome": "Maria Silva", "email": "maria.silva@email.com", "valor_compra": 150.50, "cidade": "São Paulo"}
+{"cliente_id": 2, "nome": "João Santos", "email": "joao.santos@email.com", "valor_compra": 275.00, "cidade": "Rio de Janeiro"}
+{"cliente_id": 3, "nome": "Ana Costa", "email": "ana.costa@email.com", "valor_compra": 89.90, "cidade": "Belo Horizonte"}
+{"cliente_id": 4, "nome": "Pedro Oliveira", "email": "pedro.oliveira@email.com", "valor_compra": 420.75, "cidade": "Brasília"}
+{"cliente_id": 5, "nome": "Carla Mendes", "email": "carla.mendes@email.com", "valor_compra": 199.99, "cidade": "Curitiba"}
+{"cliente_id": 6, "nome": "Lucas Ferreira", "email": "lucas.ferreira@email.com", "valor_compra": 350.00, "cidade": "Porto Alegre"}
+{"cliente_id": 7, "nome": "Juliana Alves", "email": "juliana.alves@email.com", "valor_compra": 125.50, "cidade": "Recife"}
+{"cliente_id": 8, "nome": "Roberto Lima", "email": "roberto.lima@email.com", "valor_compra": 890.00, "cidade": "Salvador"}
+{"cliente_id": 9, "nome": "Fernanda Rocha", "email": "fernanda.rocha@email.com", "valor_compra": 67.80, "cidade": "Fortaleza"}
+{"cliente_id": 10, "nome": "Thiago Barbosa", "email": "thiago.barbosa@email.com", "valor_compra": 542.30, "cidade": "Manaus"}

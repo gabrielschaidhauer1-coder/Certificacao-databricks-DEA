@@ -1,0 +1,10 @@
+{"cliente_id": 11, "nome": "Beatriz Cardoso", "email": "beatriz.cardoso@email.com", "valor_compra": 310.00, "cidade": "Goiânia", "estado": "GO"}
+{"cliente_id": 12, "nome": "Gustavo Pinto", "email": "gustavo.pinto@email.com", "valor_compra": 155.75, "cidade": "Belém", "estado": "PA"}
+{"cliente_id": 13, "nome": "Patricia Souza", "email": "patricia.souza@email.com", "valor_compra": 489.90, "cidade": "Vitória", "estado": "ES"}
+{"cliente_id": 14, "nome": "Ricardo Nunes", "email": "ricardo.nunes@email.com", "valor_compra": 720.00, "cidade": "Florianópolis", "estado": "SC"}
+{"cliente_id": 15, "nome": "Camila Dias", "email": "camila.dias@email.com", "valor_compra": 95.50, "cidade": "Natal", "estado": "RN"}
+{"cliente_id": 16, "nome": "Marcos Teixeira", "email": "marcos.teixeira@email.com", "valor_compra": "INVALID", "cidade": "Maceió", "estado": "AL"}
+{"cliente_id": 17, "nome": "Vanessa Martins", "email": "vanessa.martins@email.com", "valor_compra": 1205.00, "cidade": "São Luís", "estado": "MA", "programa_fidelidade": "Gold"}
+{"cliente_id": 18, "nome": "Daniel Ribeiro", "email": "daniel.ribeiro@email.com", "valor_compra": 399.99, "cidade": "Campo Grande", "estado": "MS", "programa_fidelidade": "Silver"}
+{"cliente_id": 19, "nome": "Adriana Gomes", "email": "adriana.gomes@email.com", "valor_compra": 178.20, "cidade": "Teresina", "estado": "PI"}
+{"cliente_id": 20, "nome": "Felipe Castro", "email": "felipe.castro@email.com", "valor_compra": 650.00, "cidade": "Aracaju", "estado": "SE", "programa_fidelidade": "Bronze"}

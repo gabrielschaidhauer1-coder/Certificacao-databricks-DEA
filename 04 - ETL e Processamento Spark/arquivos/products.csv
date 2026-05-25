@@ -1,0 +1,632 @@
+product_id,product_name,category,subcategory,price,cost,stock_quantity,is_active,tags,created_at
+324,Chapéu Sony,fashion,chapéu,2002.67,982.6,299,true,novo;destaque,2024-04-05
+329,Blazer Tramontina,fashion,blazer,1194.88,570.67,93,true,tramontina;fashion;blazer;destaque,2024-03-19
+381,Tapete Mondial,home,tapete,7676.78,5031.49,236,true,destaque;mondial;tapete,2024-01-26
+359,Mesa Jantar LG,home,mesa_jantar,5934.13,3452.76,214,true,promoção;mesa;destaque,2024-04-25
+2,Smartphone Tramontina,electronics,smartphone,2132.01,1237.86,359,false,promoção;novo,2024-03-12
+372,Luminária Mondial,home,luminária,4884.54,2368.26,-6,false,mondial;luminária;home,2024-03-23
+145,Mouse Gamer Adidas,games,mouse_gamer,6609.06,3889.28,170,true,mouse;novo,2024-03-27
+365,Cadeira Apple,home,cadeira,6251.05,2588.52,403,true,apple;oferta;cadeira;home,2024-04-23
+115,Jogo Xbox Samsung,games,jogo_xbox,-53.79,487.04,80,true,destaque;jogo;novo,2024-01-22
+229,Raquete Tênis JBL,sports,raquete_tênis,3022.95,1771.62,171,false,novo;sports;raquete;oferta,2024-02-21
+47,Câmera LG,electronics,câmera,2369.43,1123.52,266,false,electronics;câmera;promoção;lg,2024-03-14
+274,Vestido Apple,fashion,vestido,7237.06,4445.05,127,false,vestido;oferta;apple;destaque,2024-01-31
+511,Didático Samsung,books,didático,6906.52,4307.36,327,true,books;oferta;didático,2024-03-11
+117,Jogo Xbox Electrolux,games,jogo_xbox,3756.47,1745.52,-2,true,destaque;novo;promoção;jogo,2024-01-12
+394,Quadro Oster,home,quadro,3760.32,1876.65,245,true,home;destaque;promoção;oster,2024-03-03
+544,Kit Maquiagem Adidas,beauty,kit_maquiagem,5766.41,3902.76,462,true,beauty;adidas;kit,2024-01-16
+453,Biografia Electrolux,books,biografia,3328.44,1936.44,-6,false,promoção;destaque,2024-01-16
+358,Mesa Jantar Multilaser,home,mesa_jantar,8420.07,5486.9,471,true,novo;home;destaque;multilaser,2024-04-09
+371,Luminária Sony,home,luminária,2200.8,1304.37,20,true,oferta;sony;promoção,2024-03-06
+209,Luvas Adidas,sports,luvas,8232.34,4208.47,113,true,luvas;novo,2024-05-29
+399,Vaso Dell,home,vaso,7905.0,4422.29,337,true,novo;dell;promoção;oferta,2024-04-04
+596,Escova Tramontina,beauty,escova,2769.66,1572.57,1,true,escova;destaque;promoção,2024-02-01
+597,Escova Apple,beauty,escova,5900.94,3940.68,352,true,apple;escova,2024-05-06
+572,Base Dell,beauty,base,6789.28,4127.53,183,true,destaque;dell,2024-01-05
+43,Câmera Adidas,electronics,câmera,8855.24,5165.99,453,true,destaque;promoção;oferta;novo,2024-03-03
+403,Vaso Intelbras,home,vaso,1003.72,529.78,274,false,vaso;novo;oferta;promoção,2024-02-22
+112,Jogo PS5 Tramontina,games,jogo_ps5,3726.27,2467.1,468,true,novo;jogo;destaque,2024-01-27
+564,Batom Oster,beauty,batom,310.01,171.89,227,true,beauty;destaque;batom,2024-02-28
+27,Smart TV Philips,electronics,smart_tv,2423.21,1647.73,189,true,promoção;novo,2024-03-18
+202,Corda Multilaser,sports,corda,4714.63,2470.79,302,true,destaque;promoção;novo;oferta,2024-01-13
+386,Cortina Nike,home,cortina,2405.61,1601.9,9,true,novo;promoção;oferta;home,2024-01-10
+308,Óculos Sol Tramontina,fashion,óculos_sol,1719.65,710.88,428,true,tramontina;fashion;oferta;novo,2024-03-29
+408,Almofada Nike,home,almofada,145.75,95.49,99,true,novo;oferta;home;destaque,2024-01-10
+210,Luvas Philips,sports,luvas,5232.71,2748.6,194,true,novo;destaque;luvas,2024-03-06
+375,Luminária Multilaser,home,luminária,388.95,164.13,36,true,promoção;oferta;destaque,2024-04-13
+404,Vaso JBL,home,vaso,3747.92,2380.44,284,false,vaso;novo;oferta,2024-04-11
+515,Culinária Apple,books,culinária,752.81,509.53,47,false,promoção;culinária,2024-04-29
+560,Esmalte Brastemp,beauty,esmalte,4080.75,1925.2,305,true,promoção;novo;brastemp;esmalte,2024-03-30
+97,Console Sony,games,console,8706.09,5583.88,7,true,sony;promoção;console;novo,2024-05-29
+247,Prancha Surf Mondial,sports,prancha_surf,4621.15,2642.44,187,true,promoção;novo;sports;oferta,2024-01-27
+462,Autoajuda Logitech,books,autoajuda,7383.82,3164.77,413,false,oferta;logitech,2024-03-26
+397,Quadro Sony,home,quadro,7811.48,3524.31,406,true,destaque;novo;quadro;home,2024-03-28
+448,Ficção Científica Brastemp,books,ficção_científica,3255.18,1433.65,224,true,destaque;promoção;books;novo,2024-05-19
+331,Blazer LG,fashion,blazer,8500.54,3581.83,444,false,blazer;promoção;lg;fashion,2024-02-05
+432,Aspirador Samsung,home,aspirador,7784.08,4204.63,280,false,destaque;novo,2024-02-15
+112,Jogo PS5 Tramontina,games,jogo_ps5,3726.27,2467.1,468,true,novo;jogo;destaque,2024-01-27
+334,Saia Logitech,fashion,saia,3659.91,2523.87,102,true,saia;novo,2024-02-18
+524,Perfume Sony,beauty,perfume,122.56,85.29,150,true,novo;sony;destaque,2024-05-23
+63,Mouse Adidas,electronics,mouse,3668.93,1735.37,283,true,destaque;novo;mouse,2024-03-31
+73,Carregador Apple,electronics,carregador,8486.0,4668.5,20,false,carregador;novo;oferta;apple,2024-01-24
+107,Jogo PS5 Sony,games,jogo_ps5,7632.46,4029.04,227,true,jogo;novo,2024-02-07
+494,HQ DC Logitech,books,hq_dc,5675.62,3666.66,28,true,books;logitech,2024-05-27
+571,Base Logitech,beauty,base,350.77,196.2,420,true,promoção;beauty;logitech,2024-05-22
+521,Culinária Electrolux,books,culinária,5349.23,2882.55,90,true,electrolux;novo;oferta,2024-04-07
+467,História Philips,books,história,5562.52,3452.66,397,false,destaque;novo;philips,2024-01-29
+114,Jogo Xbox Oster,games,jogo_xbox,8296.83,4192.45,336,false,games;destaque,2024-01-08
+458,Técnico Programação Apple,books,técnico_programação,5494.65,3126.14,474,true,promoção;oferta;destaque,2024-01-01
+312,Óculos Sol Nike,fashion,óculos_sol,8974.56,5278.55,466,true,promoção;novo,2024-04-11
+314,Óculos Sol JBL,fashion,óculos_sol,5120.41,2943.23,54,true,oferta;novo;óculos,2024-04-15
+328,Blazer Dell,fashion,blazer,5762.23,3127.28,153,true,novo;fashion;blazer;dell,2024-04-30
+75,Carregador Dell,electronics,carregador,1674.06,963.59,46,false,promoção;carregador;destaque,2024-01-27
+368,Cadeira Puma,home,cadeira,3008.14,1843.71,165,true,novo;destaque;cadeira;promoção,2024-05-26
+60,Mouse Tramontina,electronics,mouse,5511.82,2831.4,93,false,mouse;oferta,2024-03-28
+565,Batom Nike,beauty,batom,7021.03,3495.35,445,true,beauty;nike;promoção,2024-05-29
+341,Shorts LG,fashion,shorts,2579.87,1639.32,398,true,fashion;shorts;promoção;destaque,2024-02-11
+343,Moletom Brastemp,fashion,moletom,721.51,445.22,233,true,promoção;brastemp;destaque,2024-02-14
+398,Quadro Puma,home,quadro,8304.12,4807.75,67,true,home;novo,2024-05-09
+352,Sandália Puma,fashion,sandália,4158.38,2662.94,228,true,promoção;destaque,2024-01-05
+218,Bola Futebol Brastemp,sports,bola_futebol,5113.81,3361.76,21,true,oferta;destaque,2024-05-25
+323,Chapéu Electrolux,fashion,chapéu,2052.44,1195.55,363,true,promoção;chapéu;oferta,2024-03-05
+325,Chapéu JBL,fashion,chapéu,5074.44,2933.69,246,true,chapéu;destaque;oferta,2024-03-11
+131,Headset Gamer Philips,games,headset_gamer,2820.38,1446.87,343,true,destaque;promoção;novo;headset,2024-01-05
+7,Tablet Adidas,electronics,tablet,2465.69,1670.79,166,true,oferta;adidas,2024-03-21
+283,Jaqueta Brastemp,fashion,jaqueta,4094.15,2206.76,413,true,destaque;novo;brastemp;fashion,2024-03-24
+470,Fantasia Logitech,books,fantasia,2780.43,1505.21,108,true,novo;fantasia;oferta;promoção,2024-02-06
+23,Smart TV Puma,electronics,smart_tv,8277.59,4629.97,435,true,novo;puma,2024-03-01
+120,Jogo Xbox Mondial,games,jogo_xbox,7761.92,3203.27,-31,true,promoção;novo;oferta;destaque,2024-03-15
+327,Blazer Adidas,fashion,blazer,2371.53,1246.4,362,true,destaque;oferta;fashion,2024-05-16
+158,Mousepad Multilaser,games,mousepad,7123.03,2905.38,411,true,multilaser;oferta;mousepad;promoção,2024-05-02
+58,Teclado Oster,electronics,teclado,4577.79,2299.74,54,false,destaque;promoção;electronics,2024-04-21
+499,HQ DC Dell,books,hq_dc,6529.71,3796.59,218,true,novo;oferta;destaque,2024-03-31
+53,Teclado Adidas,electronics,teclado,2540.05,1740.85,240,true,novo;adidas;teclado;electronics,2024-01-18
+175,VR Headset Sony,games,vr_headset,5271.91,2378.44,-36,false,oferta;destaque,2024-03-03
+434,Aspirador Mondial,home,aspirador,4004.15,2041.06,0,true,aspirador;promoção;novo,2024-01-03
+84,Webcam Philips,electronics,webcam,8895.32,5672.71,493,true,novo;oferta,2024-03-25
+246,Prancha Surf Brastemp,sports,prancha_surf,789.73,323.2,140,true,prancha;sports;promoção;novo,2024-05-20
+152,Teclado Gamer Multilaser,games,teclado_gamer,4641.56,2900.83,434,false,games;multilaser,2024-03-01
+480,Terror Adidas,books,terror,4014.39,2730.31,140,true,adidas;books,2024-02-17
+311,Óculos Sol Electrolux,fashion,óculos_sol,8543.15,3845.69,21,false,destaque;promoção,2024-02-21
+282,Jaqueta Electrolux,fashion,jaqueta,7029.63,4044.94,238,true,electrolux;novo;jaqueta,2024-02-23
+74,Carregador LG,electronics,carregador,2098.57,1263.95,10,true,lg;electronics;promoção;novo,2024-03-12
+457,Técnico Programação LG,books,técnico_programação,8984.98,4788.13,166,true,oferta;destaque;promoção,2024-03-23
+496,HQ DC Samsung,books,hq_dc,7095.59,3215.9,476,true,oferta;hq,2024-03-23
+540,Shampoo Multilaser,beauty,shampoo,5905.68,3055.28,375,true,shampoo;destaque;beauty;oferta,2024-05-20
+26,Smart TV Brastemp,electronics,smart_tv,,2810.96,318,true,novo;electronics,2024-05-09
+429,Cafeteira Multilaser,home,cafeteira,3754.73,1709.02,338,true,destaque;oferta;multilaser;home,2024-02-12
+1,Smartphone Samsung,electronics,smartphone,1298.64,559.39,302,false,samsung;oferta,2024-02-25
+18,Notebook Tramontina,electronics,notebook,5206.48,2462.14,-3,true,promoção;notebook;oferta;novo,2024-04-29
+430,Cafeteira Puma,home,cafeteira,3603.1,1544.53,27,true,novo;puma;destaque,2024-03-08
+529,Creme Facial Logitech,beauty,creme_facial,7628.03,3592.99,279,true,logitech;novo,2024-05-03
+460,Autoajuda Samsung,books,autoajuda,387.61,196.4,298,true,autoajuda;oferta,2024-01-24
+143,Mouse Gamer Apple,games,mouse_gamer,3891.2,2274.18,-41,true,mouse;apple;novo;destaque,2024-04-09
+369,Cadeira Electrolux,home,cadeira,4973.34,2098.07,489,true,electrolux;novo;home;promoção,2024-05-19
+269,Calça Jeans Philips,fashion,calça_jeans,2237.77,1515.84,28,true,destaque;oferta;fashion;philips,2024-01-04
+7,Tablet Adidas,electronics,tablet,2465.69,1670.79,166,true,oferta;adidas,2024-03-21
+98,Console Logitech,games,console,3459.74,2046.66,241,true,novo;console;oferta;games,2024-01-17
+4,Smartphone LG,electronics,smartphone,879.89,377.49,413,true,promoção;novo;lg;oferta,2024-01-21
+89,Roteador Mondial,electronics,roteador,3737.39,2259.4,312,false,destaque;electronics;promoção;oferta,2024-02-29
+401,Vaso Nike,home,vaso,3857.65,1837.61,42,true,novo;promoção;vaso;home,2024-01-02
+139,Cadeira Gamer LG,games,cadeira_gamer,4542.41,2138.26,14,true,oferta;destaque,2024-03-26
+333,Saia JBL,fashion,saia,6861.89,3091.84,390,true,novo;promoção,2024-04-19
+266,Calça Jeans Oster,fashion,calça_jeans,5306.27,2144.47,485,false,calça;destaque;novo;promoção,2024-04-18
+235,Patins Mondial,sports,patins,998.01,428.73,285,true,patins;promoção;destaque,2024-05-30
+225,Bola Basquete Nike,sports,bola_basquete,4029.89,2532.4,220,false,novo;oferta;promoção;nike,2024-01-07
+144,Mouse Gamer Puma,games,mouse_gamer,7865.43,3248.9,382,true,oferta;puma;mouse,2024-03-02
+459,Autoajuda Intelbras,books,autoajuda,2751.11,1348.32,11,true,novo;oferta;destaque;books,2024-01-25
+290,Tênis Casual Philips,fashion,tênis_casual,5694.58,3648.24,400,true,novo;promoção;tênis,2024-05-24
+535,Shampoo Brastemp,beauty,shampoo,4389.48,2808.44,43,true,oferta;beauty;promoção;novo,2024-04-08
+566,Batom Electrolux,beauty,batom,4384.91,2925.38,232,true,batom;beauty;promoção,2024-02-19
+379,Tapete Puma,home,tapete,1152.74,462.84,484,true,home;destaque;tapete,2024-02-24
+90,Roteador Oster,electronics,roteador,,1988.95,411,false,destaque;novo;electronics,2024-01-19
+133,Headset Gamer Brastemp,games,headset_gamer,2696.97,1716.45,378,true,headset;novo;games;promoção,2024-02-09
+130,Headset Gamer Intelbras,games,headset_gamer,3033.19,1743.54,495,false,novo;destaque,2024-01-22
+13,Notebook Adidas,electronics,notebook,5409.91,2956.96,425,true,adidas;electronics,2024-05-25
+330,Blazer Philips,fashion,blazer,3812.75,2539.49,237,true,philips;destaque;novo,2024-05-28
+118,Jogo Xbox Sony,games,jogo_xbox,2023.34,1406.9,484,true,oferta;jogo,2024-03-15
+599,Kit Barba Brastemp,beauty,kit_barba,2910.76,1931.28,139,true,destaque;kit;brastemp,2024-03-15
+207,Corda Oster,sports,corda,1992.0,921.63,465,true,sports;destaque,2024-01-31
+344,Moletom Adidas,fashion,moletom,7872.67,5161.91,218,true,oferta;adidas,2024-01-03
+495,HQ DC Sony,books,hq_dc,7549.37,3695.66,213,true,destaque;hq,2024-05-26
+484,Infantil Brastemp,books,infantil,3876.14,2453.07,368,true,novo;destaque;oferta,2024-05-17
+412,Panela Oster,home,panela,8524.84,5463.42,416,true,promoção;oferta;novo;destaque,2024-03-03
+21,Smart TV Samsung,electronics,smart_tv,,5223.49,199,true,smart;promoção;novo,2024-05-04
+399,Vaso Dell,home,vaso,7905.0,4422.29,337,true,novo;dell;promoção;oferta,2024-04-04
+383,Cortina Multilaser,home,cortina,5951.14,3618.52,413,true,home;multilaser;cortina,2024-03-04
+413,Panela Sony,home,panela,6828.6,4700.61,300,true,sony;panela;oferta,2024-04-07
+491,HQ Marvel Oster,books,hq_marvel,8213.74,4678.94,444,true,oferta;destaque,2024-01-14
+182,Tênis Running Intelbras,sports,tênis_running,2191.26,909.88,119,true,promoção;tênis,2024-04-30
+569,Base Multilaser,beauty,base,7765.81,3610.58,7,false,oferta;beauty;destaque;base,2024-04-21
+54,Teclado Logitech,electronics,teclado,7041.23,4193.24,102,true,electronics;oferta;destaque;promoção,2024-01-30
+226,Raquete Tênis Mondial,sports,raquete_tênis,3497.43,1705.19,461,true,novo;sports;promoção;destaque,2024-02-05
+396,Quadro Tramontina,home,quadro,4673.37,2437.8,449,true,home;promoção,2024-04-30
+581,Secador Adidas,beauty,secador,8726.72,4908.17,227,true,beauty;adidas;destaque,2024-02-29
+279,Jaqueta LG,fashion,jaqueta,8753.43,3875.25,118,false,jaqueta;promoção;lg;novo,2024-05-09
+523,Perfume Apple,beauty,perfume,4051.58,1870.61,406,true,destaque;perfume;apple,2024-05-29
+101,Controle LG,games,controle,4017.78,2752.85,351,true,destaque;controle;lg;promoção,2024-03-11
+3,Smartphone Puma,electronics,smartphone,7293.57,2931.65,174,true,electronics;smartphone,2024-01-27
+456,Técnico Programação Electrolux,books,técnico_programação,3253.35,1749.05,85,true,promoção;novo;técnico;books,2024-05-16
+114,Jogo Xbox Oster,games,jogo_xbox,8296.83,4192.45,336,false,games;destaque,2024-01-08
+590,Chapinha Tramontina,beauty,chapinha,7651.73,4614.9,201,true,chapinha;novo;destaque,2024-05-10
+471,Fantasia Apple,books,fantasia,6270.16,3765.09,269,true,books;apple;fantasia,2024-02-21
+198,Esteira Tramontina,sports,esteira,1189.54,825.09,500,true,destaque;oferta;novo,2024-04-18
+558,Hidratante Intelbras,beauty,hidratante,6829.29,3076.02,124,true,intelbras;destaque,2024-04-06
+80,Powerbank Nike,electronics,powerbank,-94.67,4093.69,247,false,promoção;novo,2024-02-07
+262,Camiseta Dell,fashion,camiseta,5326.06,2744.04,71,true,destaque;dell;fashion,2024-05-21
+142,Mouse Gamer LG,games,mouse_gamer,5623.49,2355.35,274,true,novo;oferta;games;destaque,2024-03-15
+245,Prancha Surf Nike,sports,prancha_surf,7345.35,5062.04,350,false,destaque;promoção;oferta,2024-02-12
+62,Mouse Puma,electronics,mouse,4422.23,2774.73,251,false,puma;mouse,2024-02-26
+447,Ficção Científica Mondial,books,ficção_científica,1175.94,552.46,387,true,destaque;books;mondial,2024-04-06
+9,Tablet Apple,electronics,tablet,7967.02,4723.29,381,true,novo;promoção;oferta;destaque,2024-04-02
+446,Ficção Científica Electrolux,books,ficção_científica,6188.49,3103.69,30,true,destaque;books;novo,2024-01-28
+557,Hidratante Mondial,beauty,hidratante,4935.08,2450.15,23,true,mondial;oferta;hidratante,2024-02-06
+493,HQ Marvel Dell,books,hq_marvel,5621.25,2675.34,278,true,promoção;books;destaque;oferta,2024-04-26
+95,Console Mondial,games,console,2690.87,1679.76,276,true,novo;console;games;destaque,2024-05-03
+170,Arcade Stick LG,games,arcade_stick,3294.16,1602.87,281,true,destaque;novo;lg;games,2024-01-25
+570,Base Puma,beauty,base,5235.61,3495.01,293,true,puma;oferta;promoção,2024-05-09
+38,Smartwatch LG,electronics,smartwatch,6392.89,2560.4,368,true,promoção;lg;smartwatch,2024-03-21
+243,Prancha Surf Intelbras,sports,prancha_surf,1314.93,679.21,216,true,destaque;novo;sports,2024-05-22
+64,Caixa de Som Tramontina,electronics,caixa_de_som,2873.77,1789.97,98,true,promoção;caixa;novo;destaque,2024-01-26
+122,Jogo Switch Philips,games,jogo_switch,3088.24,1543.87,58,true,jogo;destaque;games,2024-03-01
+445,Ficção Científica LG,books,ficção_científica,5250.02,3187.95,394,true,books;promoção,2024-01-24
+318,Cinto Samsung,fashion,cinto,7810.46,5047.94,159,false,oferta;novo,2024-05-25
+82,Powerbank Tramontina,electronics,powerbank,2440.85,978.22,296,false,promoção;novo,2024-05-03
+426,Liquidificador Intelbras,home,liquidificador,5212.22,3101.06,145,true,destaque;novo;promoção,2024-04-24
+356,Sofá Tramontina,home,sofá,4456.63,2881.44,130,true,tramontina;promoção,2024-02-25
+271,Calça Jeans Samsung,fashion,calça_jeans,6609.02,2877.68,219,true,samsung;calça;novo;oferta,2024-05-07
+422,Liquidificador Philips,home,liquidificador,8813.51,5339.26,411,true,promoção;oferta;home;novo,2024-02-08
+482,Infantil Dell,books,infantil,7675.69,4201.93,16,false,infantil;promoção,2024-02-26
+576,Rímel Tramontina,beauty,rímel,4214.39,1737.43,360,true,destaque;beauty;oferta;rímel,2024-03-02
+541,Kit Maquiagem Samsung,beauty,kit_maquiagem,924.22,398.5,145,true,samsung;oferta,2024-01-24
+305,Relógio Apple,fashion,relógio,529.18,264.23,283,true,relógio;oferta;fashion;apple,2024-01-13
+575,Rímel JBL,beauty,rímel,5602.42,2805.18,465,true,jbl;promoção,2024-04-03
+71,Carregador Brastemp,electronics,carregador,686.89,322.86,301,true,brastemp;novo;electronics,2024-02-08
+55,Teclado Multilaser,electronics,teclado,5096.92,2372.05,85,true,teclado;multilaser,2024-05-28
+283,Jaqueta Brastemp,fashion,jaqueta,4094.15,2206.76,413,true,destaque;novo;brastemp;fashion,2024-03-24
+505,Mangá Multilaser,books,mangá,8067.65,4346.37,28,true,destaque;oferta;mangá;multilaser,2024-02-23
+37,Smartwatch Samsung,electronics,smartwatch,392.27,227.11,223,true,novo;electronics;smartwatch,2024-01-12
+56,Teclado Nike,electronics,teclado,279.7,138.06,203,true,novo;destaque,2024-03-03
+567,Batom Philips,beauty,batom,5705.92,3952.3,354,true,beauty;philips;promoção,2024-04-27
+355,Sofá Apple,home,sofá,6845.13,3193.42,493,true,novo;sofá;apple;oferta,2024-02-12
+191,Halteres Intelbras,sports,halteres,8617.42,4683.18,191,false,novo;promoção;oferta;sports,2024-03-04
+192,Halteres Nike,sports,halteres,6138.35,3552.54,270,true,novo;nike,2024-01-16
+100,Controle JBL,games,controle,5306.07,3279.04,426,false,promoção;controle;jbl;destaque,2024-02-25
+545,Protetor Solar Philips,beauty,protetor_solar,3992.65,2186.04,91,false,beauty;novo,2024-04-20
+80,Powerbank Nike,electronics,powerbank,8396.31,4093.69,247,false,promoção;novo,2024-02-07
+444,Ficção Científica Apple,books,ficção_científica,2161.58,1146.17,299,true,oferta;books;apple,2024-01-11
+228,Raquete Tênis Multilaser,sports,raquete_tênis,8499.84,5238.2,234,true,raquete;multilaser,2024-04-11
+409,Almofada Adidas,home,almofada,3269.25,1950.13,141,false,destaque;promoção;oferta,2024-05-30
+472,Fantasia Electrolux,books,fantasia,7112.43,4163.54,-39,true,destaque;fantasia;oferta,2024-01-28
+214,Luvas Nike,sports,luvas,3389.71,1984.17,247,false,nike;novo,2024-05-21
+345,Moletom Mondial,fashion,moletom,7674.52,4597.09,224,true,mondial;moletom;destaque;fashion,2024-01-30
+128,Jogo Switch Mondial,games,jogo_switch,8841.37,3760.22,362,false,novo;oferta;destaque,2024-02-10
+65,Caixa de Som Intelbras,electronics,caixa_de_som,7501.17,3667.13,362,true,intelbras;oferta;novo,2024-03-15
+419,Frigideira Mondial,home,frigideira,4754.76,2505.53,177,false,oferta;home;promoção;mondial,2024-05-12
+199,Esteira Adidas,sports,esteira,4810.23,3112.26,141,true,oferta;adidas;destaque;promoção,2024-01-05
+149,Teclado Gamer Mondial,games,teclado_gamer,3337.32,2133.17,217,true,novo;games;oferta,2024-03-16
+171,Arcade Stick Philips,games,arcade_stick,3574.98,2282.51,386,true,novo;oferta,2024-04-12
+473,Fantasia JBL,books,fantasia,220.63,145.67,194,true,promoção;novo;destaque,2024-01-23
+450,Biografia Logitech,books,biografia,7951.35,4658.86,164,true,novo;promoção;books;destaque,2024-05-21
+300,Relógio LG,fashion,relógio,8841.31,3981.83,362,true,lg;relógio;fashion,2024-03-04
+189,Bicicleta Dell,sports,bicicleta,2157.6,1350.93,370,true,destaque;bicicleta;sports,2024-01-16
+270,Calça Jeans Apple,fashion,calça_jeans,6384.97,3897.7,267,true,calça;fashion,2024-03-09
+585,Secador Oster,beauty,secador,1492.98,649.56,225,true,beauty;oferta;novo,2024-01-09
+461,Autoajuda Dell,books,autoajuda,5155.25,2942.2,166,false,promoção;destaque,2024-05-27
+36,Fone Bluetooth JBL,electronics,fone_bluetooth,261.68,119.83,495,true,destaque;novo;promoção,2024-05-17
+587,Chapinha Dell,beauty,chapinha,8780.65,4384.92,148,true,destaque;promoção;chapinha;dell,2024-05-02
+215,Bola Futebol Samsung,sports,bola_futebol,-31.84,4412.35,54,true,sports;oferta;destaque;bola,2024-03-31
+595,Escova JBL,beauty,escova,6808.65,3003.15,283,false,oferta;escova,2024-05-29
+481,Terror LG,books,terror,284.35,197.85,313,true,books;oferta;lg;terror,2024-01-21
+242,Skate Tramontina,sports,skate,3199.85,1719.47,409,true,novo;tramontina;sports;skate,2024-01-31
+172,VR Headset Apple,games,vr_headset,4139.54,2408.71,313,true,promoção;novo,2024-03-17
+94,Roteador Tramontina,electronics,roteador,2009.79,918.55,392,true,tramontina;destaque;oferta;roteador,2024-04-22
+424,Liquidificador Logitech,home,liquidificador,476.86,204.9,130,false,logitech;promoção;liquidificador;novo,2024-04-02
+452,Biografia JBL,books,biografia,7866.87,3623.67,292,false,promoção;novo;destaque;biografia,2024-01-13
+306,Relógio Oster,fashion,relógio,3566.02,2014.44,1,false,relógio;destaque,2024-05-02
+263,Camiseta Adidas,fashion,camiseta,5428.3,3345.75,13,true,novo;oferta,2024-05-10
+273,Vestido Mondial,fashion,vestido,444.0,292.54,196,true,oferta;mondial,2024-05-21
+423,Liquidificador Tramontina,home,liquidificador,4282.71,1725.6,457,true,liquidificador;oferta;novo,2024-05-25
+22,Smart TV Sony,electronics,smart_tv,1435.19,701.83,277,true,smart;sony;destaque;promoção,2024-05-08
+230,Patins Multilaser,sports,patins,5713.81,3944.41,143,false,multilaser;novo;sports,2024-05-19
+442,Ficção Científica Logitech,books,ficção_científica,4713.63,3274.25,159,true,destaque;oferta,2024-01-11
+261,Camiseta Intelbras,fashion,camiseta,5670.65,2525.78,440,true,intelbras;fashion,2024-02-01
+6,Tablet Mondial,electronics,tablet,3229.25,1940.95,36,true,destaque;electronics;oferta;promoção,2024-04-07
+,Frigideira LG,home,frigideira,4167.12,2528.45,297,true,frigideira;novo;oferta,2024-02-17
+125,Jogo Switch Adidas,games,jogo_switch,4007.26,1966.95,259,true,promoção;oferta;adidas,2024-01-15
+185,Tênis Running Multilaser,sports,tênis_running,3789.59,2468.09,428,false,sports;destaque;tênis,2024-01-10
+363,Mesa Jantar Electrolux,home,mesa_jantar,276.06,122.46,384,true,destaque;mesa;home,2024-01-16
+313,Óculos Sol Adidas,fashion,óculos_sol,4990.29,3278.56,6,false,promoção;fashion,2024-02-07
+525,Perfume LG,beauty,perfume,7394.9,3754.93,120,false,novo;promoção;perfume;destaque,2024-04-13
+46,Câmera Brastemp,electronics,câmera,5532.59,3406.87,280,false,destaque;promoção,2024-04-25
+141,Cadeira Gamer Brastemp,games,cadeira_gamer,219.97,102.22,311,false,oferta;cadeira,2024-03-01
+169,Arcade Stick Electrolux,games,arcade_stick,1248.5,598.46,23,false,novo;oferta,2024-02-19
+554,Hidratante Apple,beauty,hidratante,379.92,168.11,470,true,destaque;oferta,2024-02-03
+301,Relógio Brastemp,fashion,relógio,6253.2,3158.77,24,false,destaque;promoção;fashion,2024-04-15
+203,Corda Puma,sports,corda,8751.02,5972.36,163,false,sports;corda;promoção,2024-02-17
+537,Shampoo Sony,beauty,shampoo,519.94,280.35,485,true,destaque;oferta;promoção,2024-05-01
+8,Tablet Electrolux,electronics,tablet,3639.96,1528.26,367,true,destaque;promoção,2024-04-11
+317,Cinto Electrolux,fashion,cinto,6976.78,3462.3,45,true,fashion;promoção;destaque,2024-05-12
+266,Calça Jeans Oster,fashion,calça_jeans,5306.27,2144.47,485,false,calça;destaque;novo;promoção,2024-04-18
+41,Smartwatch Intelbras,electronics,smartwatch,2617.52,1384.58,238,false,destaque;electronics;novo,2024-05-01
+350,Sandália Adidas,fashion,sandália,7558.49,4289.47,329,true,oferta;promoção;destaque;fashion,2024-01-20
+295,Bolsa Brastemp,fashion,bolsa,3018.62,1763.6,90,true,brastemp;fashion,2024-05-30
+559,Esmalte Samsung,beauty,esmalte,1655.48,706.46,213,false,beauty;oferta;destaque;esmalte,2024-05-13
+354,Sofá JBL,home,sofá,7435.69,4795.85,392,false,destaque;sofá;promoção;jbl,2024-01-25
+109,Jogo PS5 Puma,games,jogo_ps5,7147.4,3104.29,282,true,promoção;games;oferta,2024-03-27
+431,Cafeteira Oster,home,cafeteira,5581.36,2373.72,117,true,cafeteira;promoção;home;novo,2024-05-14
+249,Barraca Camping Apple,sports,barraca_camping,6217.03,4092.76,315,true,oferta;sports,2024-01-16
+238,Skate Multilaser,sports,skate,7649.3,4546.67,379,true,sports;novo;oferta;skate,2024-05-23
+159,Volante JBL,games,volante,4218.69,2342.25,282,true,promoção;novo,2024-01-15
+387,Cortina Intelbras,home,cortina,4986.17,2807.42,396,true,promoção;home;novo,2024-03-15
+408,Almofada Nike,home,almofada,145.75,95.49,99,true,novo;oferta;home;destaque,2024-01-10
+270,Calça Jeans Apple,fashion,calça_jeans,6384.97,3897.7,267,true,calça;fashion,2024-03-09
+77,Carregador JBL,electronics,carregador,2942.91,2033.71,0,false,jbl;electronics;novo,2024-04-02
+552,Hidratante Adidas,beauty,hidratante,2184.13,1128.39,255,false,adidas;hidratante,2024-01-15
+543,Kit Maquiagem Oster,beauty,kit_maquiagem,5924.04,3968.92,458,true,beauty;kit;destaque;promoção,2024-01-20
+208,Luvas Puma,sports,luvas,6990.05,3594.27,133,true,promoção;oferta;puma;destaque,2024-03-22
+485,Infantil Mondial,books,infantil,4750.24,3148.15,231,false,books;novo,2024-05-17
+132,Headset Gamer Adidas,games,headset_gamer,3294.82,1496.11,248,true,games;oferta,2024-01-20
+83,Webcam Multilaser,electronics,webcam,8826.95,4163.16,210,true,destaque;promoção;oferta,2024-04-08
+287,Tênis Casual LG,fashion,tênis_casual,431.99,232.54,420,false,lg;promoção;destaque,2024-02-14
+586,Chapinha Mondial,beauty,chapinha,4825.52,2106.08,393,true,chapinha;beauty;mondial,2024-05-19
+212,Luvas LG,sports,luvas,4419.89,2983.73,30,true,oferta;destaque,2024-01-13
+539,Shampoo Samsung,beauty,shampoo,921.22,515.32,312,true,shampoo;oferta;samsung,2024-03-06
+33,Fone Bluetooth LG,electronics,fone_bluetooth,3215.01,1826.01,383,true,oferta;electronics,2024-02-15
+164,Volante Multilaser,games,volante,7251.13,4390.54,30,true,promoção;oferta;destaque,2024-02-22
+391,Espelho Adidas,home,espelho,8825.3,4388.13,424,true,espelho;novo;destaque;home,2024-04-06
+287,Tênis Casual LG,fashion,tênis_casual,431.99,232.54,420,false,lg;promoção;destaque,2024-02-14
+307,Relógio Logitech,fashion,relógio,1836.81,748.91,41,false,relógio;promoção,2024-04-30
+78,Carregador Puma,electronics,carregador,5621.91,3089.51,136,true,promoção;destaque;oferta,2024-02-01
+124,Jogo Switch Sony,games,jogo_switch,4201.86,2391.37,451,true,jogo;games;promoção;sony,2024-04-30
+76,Carregador Mondial,electronics,carregador,7725.84,3854.74,483,false,mondial;promoção;oferta;carregador,2024-03-05
+528,Creme Facial JBL,beauty,creme_facial,4116.32,2170.28,115,true,novo;jbl;oferta,2024-05-07
+388,Espelho Logitech,home,espelho,4543.85,2720.87,314,true,home;promoção;oferta;novo,2024-05-24
+407,Almofada Apple,home,almofada,6533.48,4437.58,146,true,destaque;promoção,2024-04-22
+268,Calça Jeans Brastemp,fashion,calça_jeans,4850.11,2508.57,348,true,destaque;promoção;fashion,2024-01-15
+31,Fone Bluetooth Intelbras,electronics,fone_bluetooth,723.26,480.92,427,true,novo;electronics;promoção;destaque,2024-01-11
+601,Kit Barba Electrolux,beauty,kit_barba,2936.94,1453.38,138,true,novo;oferta,2024-03-31
+273,Vestido Mondial,fashion,vestido,444.0,292.54,196,true,oferta;mondial,2024-05-21
+138,Cadeira Gamer Tramontina,games,cadeira_gamer,1368.54,727.03,230,true,promoção;tramontina,2024-04-11
+,Skate Philips,sports,skate,4073.19,2154.17,142,true,philips;novo;sports;skate,2024-03-24
+384,Cortina Brastemp,home,cortina,7080.85,4345.23,184,true,destaque;cortina;promoção;novo,2024-04-24
+514,Culinária Logitech,books,culinária,3482.77,1483.09,456,false,culinária;oferta;destaque;books,2024-05-16
+96,Console Dell,games,console,8707.12,4253.8,239,true,oferta;games,2024-04-11
+265,Camiseta JBL,fashion,camiseta,5760.16,2426.78,184,true,promoção;novo,2024-04-17
+191,Halteres Intelbras,sports,halteres,8617.42,4683.18,191,false,novo;promoção;oferta;sports,2024-03-04
+354,Sofá JBL,home,sofá,7435.69,4795.85,392,false,destaque;sofá;promoção;jbl,2024-01-25
+281,Jaqueta Puma,fashion,jaqueta,8337.14,4317.69,231,true,puma;fashion,2024-02-04
+233,Patins Electrolux,sports,patins,5260.46,2947.49,214,true,destaque;novo;oferta,2024-01-22
+366,Cadeira Mondial,home,cadeira,7477.51,5035.7,386,true,home;cadeira;promoção;oferta,2024-01-20
+129,Headset Gamer Mondial,games,headset_gamer,-30.28,2546.4,168,true,destaque;promoção;headset;novo,2024-02-08
+335,Saia Sony,fashion,saia,210.23,84.35,449,true,fashion;sony;promoção,2024-05-08
+213,Luvas Tramontina,sports,luvas,6890.04,3608.44,362,true,sports;novo,2024-04-26
+103,Controle Samsung,games,controle,2229.62,976.08,391,true,games;oferta;controle;destaque,2024-01-01
+161,Volante Sony,games,volante,1806.63,1240.98,314,true,destaque;games;novo;oferta,2024-02-13
+428,Cafeteira Nike,home,cafeteira,2885.68,1406.5,-29,false,destaque;novo;oferta,2024-04-25
+222,Bola Basquete JBL,sports,bola_basquete,5465.62,3192.79,167,true,bola;promoção;destaque;sports,2024-04-01
+340,Shorts Philips,fashion,shorts,2744.62,1642.65,310,true,oferta;philips;novo,2024-01-31
+474,Fantasia LG,books,fantasia,1718.17,945.33,11,true,novo;fantasia,2024-03-26
+155,Mousepad Apple,games,mousepad,8966.47,4354.77,62,true,promoção;games,2024-04-23
+592,Escova Mondial,beauty,escova,1980.18,1319.48,226,true,oferta;destaque,2024-04-18
+178,VR Headset Puma,games,vr_headset,4752.45,2348.31,175,true,oferta;destaque;vr;promoção,2024-02-19
+548,Protetor Solar Dell,beauty,protetor_solar,5192.41,2879.79,223,false,oferta;dell;novo;beauty,2024-01-01
+219,Bola Futebol Dell,sports,bola_futebol,4305.2,1782.22,460,true,oferta;bola,2024-01-05
+425,Liquidificador Sony,home,liquidificador,3274.32,1857.35,210,true,oferta;destaque;novo,2024-02-20
+272,Vestido Electrolux,fashion,vestido,3340.37,1591.8,370,true,destaque;novo,2024-01-01
+556,Hidratante Samsung,beauty,hidratante,4498.89,2878.18,218,true,destaque;promoção;hidratante;samsung,2024-05-27
+503,Mangá Oster,books,mangá,6914.15,3001.79,291,true,books;mangá,2024-03-27
+573,Base Intelbras,beauty,base,4343.53,2134.63,382,true,promoção;beauty;oferta,2024-02-17
+532,Creme Facial Sony,beauty,creme_facial,4113.1,2763.25,180,true,beauty;sony;novo,2024-03-18
+382,Tapete Adidas,home,tapete,1816.61,1043.06,343,true,tapete;novo,2024-01-18
+49,Monitor Multilaser,electronics,monitor,3770.71,1742.26,299,true,promoção;oferta;multilaser;monitor,2024-03-17
+297,Bolsa Logitech,fashion,bolsa,954.05,467.99,485,false,promoção;destaque;bolsa;fashion,2024-05-23
+48,Monitor Tramontina,electronics,monitor,771.0,343.29,109,true,promoção;monitor;novo,2024-04-29
+490,HQ Marvel Adidas,books,hq_marvel,5724.28,2436.21,499,true,novo;promoção;adidas,2024-02-13
+579,Rímel Multilaser,beauty,rímel,5606.85,3588.22,481,true,promoção;multilaser,2024-01-21
+574,Base Sony,beauty,base,7118.42,3638.41,440,true,destaque;base;novo,2024-01-09
+402,Vaso Puma,home,vaso,6396.14,4073.23,3,false,home;destaque;vaso;promoção,2024-04-02
+153,Mousepad Mondial,games,mousepad,4076.3,2084.17,70,true,mousepad;destaque;oferta,2024-03-04
+25,Smart TV Adidas,electronics,smart_tv,2881.13,1377.84,135,false,destaque;oferta,2024-03-17
+136,Cadeira Gamer Logitech,games,cadeira_gamer,3796.54,1703.19,446,true,destaque;promoção,2024-04-05
+148,Teclado Gamer Intelbras,games,teclado_gamer,3020.33,1320.92,380,false,teclado;games;promoção,2024-05-07
+588,Chapinha Oster,beauty,chapinha,8105.65,3581.29,205,true,chapinha;oster;oferta,2024-01-15
+275,Vestido Puma,fashion,vestido,4542.71,3046.26,23,false,promoção;vestido,2024-03-20
+39,Smartwatch Tramontina,electronics,smartwatch,5986.62,2618.47,341,false,promoção;destaque;smartwatch,2024-05-21
+326,Blazer Intelbras,fashion,blazer,8101.29,5198.02,338,true,fashion;destaque;intelbras;promoção,2024-03-16
+349,Sandália JBL,fashion,sandália,4695.37,2847.61,372,true,sandália;destaque;promoção,2024-02-08
+479,Terror Puma,books,terror,2891.21,1639.9,162,true,puma;terror;promoção;novo,2024-03-18
+224,Bola Basquete Sony,sports,bola_basquete,1430.04,877.33,162,true,sony;oferta,2024-03-19
+187,Bicicleta LG,sports,bicicleta,6592.76,3919.3,172,true,destaque;sports;oferta;promoção,2024-04-19
+154,Mousepad Philips,games,mousepad,8645.69,3525.49,467,true,oferta;mousepad;promoção,2024-02-24
+315,Cinto Philips,fashion,cinto,3656.15,2140.58,202,true,fashion;philips;promoção;cinto,2024-04-05
+86,Webcam Brastemp,electronics,webcam,7043.85,3377.57,41,true,oferta;novo;promoção;webcam,2024-05-04
+174,VR Headset Electrolux,games,vr_headset,6079.86,4219.24,371,true,promoção;vr;novo;games,2024-01-14
+,Moletom Oster,fashion,moletom,8400.52,4193.38,464,true,destaque;promoção;fashion;oster,2024-05-10
+258,Mochila Trail Nike,sports,mochila_trail,59.62,32.38,348,false,nike;destaque,2024-03-28
+476,Fantasia Multilaser,books,fantasia,5650.18,3749.48,15,true,books;fantasia,2024-04-10
+591,Chapinha Sony,beauty,chapinha,8492.5,5711.5,437,false,promoção;chapinha;sony,2024-03-13
+106,Jogo PS5 LG,games,jogo_ps5,1025.84,565.39,401,true,destaque;lg;oferta,2024-05-02
+433,Aspirador Apple,home,aspirador,5337.31,2865.94,222,true,promoção;novo;home,2024-01-23
+52,Monitor Oster,electronics,monitor,8166.1,4716.48,219,true,electronics;oster;monitor,2024-04-07
+251,Barraca Camping Dell,sports,barraca_camping,1263.3,789.6,141,true,oferta;sports;destaque;novo,2024-03-23
+507,Didático Mondial,books,didático,3753.66,2061.2,486,true,novo;didático,2024-02-14
+294,Bolsa LG,fashion,bolsa,4901.43,2218.72,308,true,novo;promoção,2024-01-01
+166,Volante Puma,games,volante,1000.15,472.59,72,true,volante;promoção,2024-04-17
+438,Romance Tramontina,books,romance,2485.26,1458.42,25,true,tramontina;romance,2024-03-09
+427,Liquidificador Brastemp,home,liquidificador,8011.31,4120.39,74,true,oferta;liquidificador;promoção;novo,2024-01-19
+416,Frigideira Nike,home,frigideira,6631.33,4388.77,127,true,oferta;nike,2024-01-31
+163,Volante Nike,games,volante,2418.33,1120.27,15,false,novo;volante;destaque;promoção,2024-03-03
+12,Tablet LG,electronics,tablet,1048.19,555.99,448,true,oferta;electronics;novo;lg,2024-03-17
+302,Relógio Dell,fashion,relógio,4462.54,2292.02,245,true,promoção;dell,2024-01-09
+549,Protetor Solar JBL,beauty,protetor_solar,3490.15,2117.75,274,true,destaque;protetor;promoção,2024-01-15
+84,Webcam Philips,electronics,webcam,8895.32,5672.71,493,true,novo;oferta,2024-03-25
+374,Luminária Logitech,home,luminária,1889.65,1225.67,222,true,destaque;home;logitech;promoção,2024-03-25
+137,Cadeira Gamer Puma,games,cadeira_gamer,5012.54,2159.29,145,true,cadeira;promoção,2024-05-11
+216,Bola Futebol Oster,sports,bola_futebol,2442.22,1267.68,289,true,sports;bola;oster;novo,2024-01-24
+264,Camiseta Philips,fashion,camiseta,1738.12,899.52,406,true,promoção;philips;fashion,2024-05-07
+563,Esmalte Logitech,beauty,esmalte,6047.07,2497.04,222,true,novo;promoção;logitech,2024-01-27
+217,Bola Futebol Tramontina,sports,bola_futebol,3676.78,1886.74,359,true,promoção;oferta,2024-03-25
+337,Shorts Multilaser,fashion,shorts,1525.46,1025.21,114,true,destaque;multilaser,2024-05-30
+454,Biografia Intelbras,books,biografia,3279.86,2043.49,406,true,biografia;novo;intelbras;destaque,2024-03-18
+20,Notebook Samsung,electronics,notebook,-89.3,2143.6,447,true,oferta;novo;samsung,2024-01-13
+167,Arcade Stick Nike,games,arcade_stick,1475.87,1031.32,254,true,promoção;novo,2024-04-27
+,Vestido JBL,fashion,vestido,2978.95,1685.87,288,true,novo;fashion;promoção;vestido,2024-05-06
+434,Aspirador Mondial,home,aspirador,4004.15,2041.06,0,true,aspirador;promoção;novo,2024-01-03
+87,Webcam Nike,electronics,webcam,7856.94,3227.39,471,true,destaque;nike,2024-04-21
+538,Shampoo Logitech,beauty,shampoo,2400.16,1342.01,408,false,destaque;shampoo;novo,2024-01-11
+59,Mouse Electrolux,electronics,mouse,7439.48,4298.1,478,true,promoção;electronics;oferta,2024-05-25
+157,Mousepad Sony,games,mousepad,7668.82,4705.15,406,true,games;sony;oferta;novo,2024-03-01
+34,Fone Bluetooth Mondial,electronics,fone_bluetooth,7937.78,3234.14,476,false,oferta;destaque;electronics;fone,2024-02-10
+353,Sofá Philips,home,sofá,4963.84,3215.44,326,true,novo;home;promoção;sofá,2024-04-03
+44,Câmera Dell,electronics,câmera,1370.53,830.93,453,true,electronics;oferta;novo,2024-04-28
+304,Relógio Mondial,fashion,relógio,8478.47,5879.08,457,false,mondial;promoção;fashion;destaque,2024-02-10
+440,Romance Multilaser,books,romance,7081.43,3891.38,16,true,oferta;books,2024-01-15
+332,Saia Multilaser,fashion,saia,7767.55,3527.3,90,true,multilaser;oferta;promoção;saia,2024-02-23
+121,Jogo Xbox Philips,games,jogo_xbox,1080.6,439.0,316,false,jogo;philips;promoção;destaque,2024-03-03
+577,Rímel Adidas,beauty,rímel,4879.14,2901.68,446,true,oferta;beauty;rímel;novo,2024-03-09
+516,Culinária Dell,books,culinária,4260.86,2915.43,132,true,books;destaque;culinária,2024-03-24
+477,Terror Sony,books,terror,5176.83,2733.05,229,true,destaque;books,2024-05-28
+421,Frigideira JBL,home,frigideira,4959.05,2336.42,187,true,promoção;home;oferta,2024-04-05
+180,Tênis Running Oster,sports,tênis_running,4910.97,3284.1,395,true,oster;tênis;oferta,2024-03-29
+315,Cinto Philips,fashion,cinto,3656.15,2140.58,202,true,fashion;philips;promoção;cinto,2024-04-05
+,Tênis Running Apple,sports,tênis_running,949.69,599.47,475,true,destaque;promoção;oferta,2024-02-21
+177,VR Headset Nike,games,vr_headset,3722.41,2354.39,376,true,games;novo;oferta;vr,2024-05-02
+583,Secador Samsung,beauty,secador,4034.54,1981.87,87,true,promoção;secador,2024-03-14
+489,HQ Marvel Logitech,books,hq_marvel,2950.08,1754.04,375,true,logitech;destaque,2024-04-25
+195,Esteira Apple,sports,esteira,703.45,370.79,30,true,apple;esteira;promoção,2024-02-16
+175,VR Headset Sony,games,vr_headset,5271.91,2378.44,430,false,oferta;destaque,2024-03-03
+321,Chapéu Brastemp,fashion,chapéu,8054.8,5031.74,197,true,oferta;novo,2024-02-24
+436,Aspirador Nike,home,aspirador,-28.63,1776.66,83,false,home;aspirador;nike,2024-04-18
+500,HQ DC Intelbras,books,hq_dc,8346.66,4876.84,254,false,novo;books,2024-03-15
+299,Bolsa Tramontina,fashion,bolsa,1640.23,656.98,435,true,novo;bolsa,2024-02-26
+380,Tapete Dell,home,tapete,3742.79,2222.39,113,true,dell;home,2024-05-25
+179,VR Headset Tramontina,games,vr_headset,8617.21,4168.16,152,true,games;destaque;promoção;vr,2024-05-02
+188,Bicicleta Multilaser,sports,bicicleta,4661.2,1985.77,71,false,sports;multilaser;bicicleta,2024-04-08
+66,Caixa de Som Oster,electronics,caixa_de_som,6291.16,2754.8,446,true,caixa;promoção;destaque;novo,2024-03-28
+24,Smart TV Electrolux,electronics,smart_tv,3663.33,2500.15,20,true,destaque;novo;oferta,2024-05-13
+417,Frigideira Adidas,home,frigideira,8284.76,4993.59,391,true,frigideira;novo;oferta,2024-05-06
+74,Carregador LG,electronics,carregador,2098.57,1263.95,10,true,lg;electronics;promoção;novo,2024-03-12
+32,Fone Bluetooth Brastemp,electronics,fone_bluetooth,2808.53,1880.86,460,true,destaque;electronics,2024-01-27
+211,Luvas Logitech,sports,luvas,6881.29,3761.22,235,true,oferta;luvas;sports;novo,2024-05-19
+146,Mouse Gamer Multilaser,games,mouse_gamer,7330.07,3317.05,356,false,games;oferta;multilaser;promoção,2024-01-10
+249,Barraca Camping Apple,sports,barraca_camping,6217.03,4092.76,315,true,oferta;sports,2024-01-16
+181,Tênis Running Tramontina,sports,tênis_running,8318.95,4964.68,423,true,destaque;tênis;sports;tramontina,2024-05-30
+534,Shampoo Apple,beauty,shampoo,2512.85,1198.85,465,true,promoção;shampoo;beauty;destaque,2024-03-01
+316,Cinto Brastemp,fashion,cinto,230.97,149.03,251,true,fashion;cinto,2024-04-23
+555,Hidratante LG,beauty,hidratante,178.46,105.26,49,false,beauty;novo;lg;destaque,2024-01-30
+303,Relógio Nike,fashion,relógio,2689.07,1332.74,87,false,destaque;nike,2024-05-20
+254,Mochila Trail Tramontina,sports,mochila_trail,1999.28,1057.41,424,true,novo;oferta;sports,2024-05-24
+135,Cadeira Gamer Intelbras,games,cadeira_gamer,8139.66,3729.63,-49,false,oferta;promoção;novo,2024-05-15
+201,Esteira Intelbras,sports,esteira,3978.22,2235.47,71,true,oferta;destaque,2024-05-27
+29,Fone Bluetooth Dell,electronics,fone_bluetooth,6202.38,4067.98,464,true,destaque;promoção,2024-03-11
+360,Mesa Jantar Philips,home,mesa_jantar,7252.11,3201.47,262,true,novo;mesa;oferta;home,2024-02-21
+81,Powerbank Intelbras,electronics,powerbank,-90.3,2356.22,442,true,oferta;promoção;powerbank,2024-05-09
+288,Tênis Casual Electrolux,fashion,tênis_casual,3217.37,2163.65,76,true,novo;oferta;fashion;tênis,2024-05-07
+244,Prancha Surf LG,sports,prancha_surf,1543.2,751.0,317,true,lg;promoção;sports,2024-02-19
+241,Skate LG,sports,skate,1813.54,787.41,494,true,promoção;novo;oferta;lg,2024-03-30
+293,Bolsa Nike,fashion,bolsa,5352.42,3435.52,14,true,novo;fashion;oferta;destaque,2024-05-06
+562,Esmalte Oster,beauty,esmalte,6943.67,4150.91,407,true,oferta;promoção;destaque;beauty,2024-02-10
+351,Sandália Mondial,fashion,sandália,6774.52,3361.45,259,true,destaque;promoção;oferta;fashion,2024-01-21
+284,Jaqueta Samsung,fashion,jaqueta,1377.26,844.74,25,true,oferta;fashion;samsung,2024-04-13
+546,Protetor Solar Multilaser,beauty,protetor_solar,2004.26,1188.53,52,true,multilaser;novo,2024-03-05
+443,Ficção Científica Puma,books,ficção_científica,6714.51,3792.85,152,true,puma;destaque;books,2024-01-29
+346,Sandália Philips,fashion,sandália,7208.28,4286.43,356,true,philips;promoção,2024-05-03
+292,Bolsa Puma,fashion,bolsa,7354.92,4965.88,112,false,oferta;fashion;destaque,2024-03-01
+57,Teclado Philips,electronics,teclado,961.82,607.62,61,true,novo;promoção;teclado,2024-01-18
+465,História LG,books,história,3915.34,2489.81,243,true,promoção;história;lg;oferta,2024-05-08
+250,Barraca Camping Logitech,sports,barraca_camping,5151.55,2883.24,360,true,novo;barraca;oferta,2024-01-25
+200,Esteira Puma,sports,esteira,2203.65,925.95,344,true,destaque;puma,2024-04-12
+367,Cadeira JBL,home,cadeira,1723.17,779.11,219,true,cadeira;home;destaque;oferta,2024-01-02
+160,Volante Oster,games,volante,7490.1,4160.23,478,true,novo;volante;oster,2024-03-05
+509,Didático Brastemp,books,didático,8315.62,5153.46,73,true,destaque;books;oferta;brastemp,2024-04-27
+463,História JBL,books,história,6740.95,4414.27,323,false,história;novo,2024-01-11
+475,Fantasia Philips,books,fantasia,4434.36,2764.01,181,true,novo;fantasia,2024-01-16
+568,Base Nike,beauty,base,7115.63,4208.18,496,true,promoção;novo,2024-05-05
+362,Mesa Jantar Samsung,home,mesa_jantar,5081.8,2921.23,345,true,oferta;samsung;novo,2024-01-28
+492,HQ Marvel Apple,books,hq_marvel,3804.78,1875.21,-43,true,books;oferta,2024-01-01
+400,Vaso LG,home,vaso,7878.79,4800.49,246,false,novo;destaque;oferta,2024-01-26
+469,Fantasia Dell,books,fantasia,3395.26,2129.91,27,true,books;fantasia;dell;destaque,2024-01-29
+338,Shorts Brastemp,fashion,shorts,4565.92,1995.07,192,true,novo;brastemp;oferta;destaque,2024-01-28
+520,Culinária Oster,books,culinária,7068.8,3750.75,120,true,destaque;oster;novo;promoção,2024-01-30
+91,Roteador JBL,electronics,roteador,4002.98,2016.18,217,true,oferta;roteador;electronics,2024-04-08
+464,História Oster,books,história,2907.5,1655.75,78,true,destaque;promoção;oferta;oster,2024-02-26
+19,Notebook Logitech,electronics,notebook,7780.46,3238.63,31,false,notebook;logitech;electronics;novo,2024-02-18
+236,Patins Brastemp,sports,patins,6228.69,2773.16,151,false,brastemp;destaque,2024-02-06
+227,Raquete Tênis Sony,sports,raquete_tênis,2456.48,1180.39,141,false,promoção;sony;raquete,2024-03-05
+193,Halteres Adidas,sports,halteres,7466.68,5009.15,84,true,promoção;adidas;sports;oferta,2024-01-24
+437,Romance Electrolux,books,romance,4810.32,2312.06,69,true,destaque;promoção,2024-04-25
+162,Volante Brastemp,games,volante,5944.97,3663.23,288,true,brastemp;oferta,2024-05-27
+231,Patins Nike,sports,patins,1660.09,1046.33,482,true,oferta;patins;nike,2024-04-14
+600,Kit Barba JBL,beauty,kit_barba,2660.03,1573.9,321,true,novo;beauty,2024-05-19
+61,Mouse Brastemp,electronics,mouse,2552.59,1477.56,264,true,electronics;destaque,2024-04-14
+589,Chapinha Puma,beauty,chapinha,5492.31,2518.47,392,true,puma;oferta,2024-05-17
+221,Bola Futebol Logitech,sports,bola_futebol,7519.27,3885.56,386,true,destaque;logitech;novo;bola,2024-01-14
+17,Notebook Sony,electronics,notebook,653.07,267.38,142,false,novo;electronics,2024-05-26
+392,Espelho Nike,home,espelho,5899.71,3006.43,264,true,home;novo;promoção,2024-03-31
+10,Tablet Samsung,electronics,tablet,2012.62,1407.35,24,true,destaque;electronics,2024-04-18
+526,Perfume JBL,beauty,perfume,3464.56,1952.4,96,false,oferta;promoção;beauty,2024-03-14
+277,Vestido Intelbras,fashion,vestido,8979.2,5681.73,407,true,intelbras;promoção,2024-01-07
+441,Romance Mondial,books,romance,2434.87,1260.6,458,true,oferta;mondial;destaque,2024-03-04
+522,Perfume Brastemp,beauty,perfume,,5361.17,75,true,novo;perfume;promoção,2024-05-27
+598,Kit Barba Mondial,beauty,kit_barba,2357.98,1428.4,191,true,beauty;novo;mondial,2024-02-07
+278,Vestido Sony,fashion,vestido,2135.02,1075.89,486,true,oferta;destaque,2024-04-06
+134,Headset Gamer Nike,games,headset_gamer,-96.17,975.32,84,false,promoção;headset,2024-03-01
+259,Mochila Trail Intelbras,sports,mochila_trail,7362.29,5127.44,36,true,intelbras;destaque;oferta,2024-01-27
+252,Barraca Camping Nike,sports,barraca_camping,7464.07,4690.74,295,true,promoção;oferta;destaque;nike,2024-01-24
+255,Mochila Trail Mondial,sports,mochila_trail,7678.31,4887.18,23,true,oferta;promoção;mondial;novo,2024-02-10
+486,Infantil Multilaser,books,infantil,3590.26,2227.94,322,true,infantil;promoção,2024-04-11
+519,Culinária Multilaser,books,culinária,2184.93,1033.71,33,true,oferta;destaque,2024-04-20
+104,Controle Electrolux,games,controle,2531.26,1759.75,408,true,destaque;electrolux,2024-02-03
+530,Creme Facial Oster,beauty,creme_facial,6357.96,2759.03,72,true,novo;oster;oferta,2024-01-23
+547,Protetor Solar Apple,beauty,protetor_solar,7005.47,2841.62,0,true,promoção;protetor;beauty;destaque,2024-04-10
+253,Mochila Trail Electrolux,sports,mochila_trail,72.03,45.54,234,true,oferta;novo,2024-04-11
+393,Quadro Brastemp,home,quadro,1531.92,648.2,95,true,novo;destaque;brastemp,2024-02-28
+267,Calça Jeans Nike,fashion,calça_jeans,6330.47,2688.73,142,true,nike;novo;fashion,2024-02-09
+385,Cortina Logitech,home,cortina,3260.31,1602.9,310,true,oferta;home;novo,2024-02-20
+339,Shorts Mondial,fashion,shorts,5898.74,2394.43,194,true,shorts;promoção;fashion;novo,2024-01-03
+40,Smartwatch Sony,electronics,smartwatch,1189.01,625.58,462,true,novo;smartwatch;promoção;sony,2024-03-18
+390,Espelho Sony,home,espelho,612.45,312.86,464,true,promoção;oferta;sony,2024-01-11
+50,Monitor Electrolux,electronics,monitor,6792.82,4456.32,382,true,electronics;monitor;promoção,2024-05-04
+561,Esmalte Sony,beauty,esmalte,3797.66,2154.46,500,true,esmalte;novo;destaque;beauty,2024-04-28
+319,Cinto Sony,fashion,cinto,308.96,141.45,127,true,sony;cinto;fashion,2024-03-11
+156,Mousepad Intelbras,games,mousepad,8974.5,5771.99,341,true,intelbras;novo;destaque;mousepad,2024-03-17
+79,Powerbank Puma,electronics,powerbank,172.27,89.99,-5,false,destaque;electronics,2024-05-07
+168,Arcade Stick Multilaser,games,arcade_stick,8700.88,4041.94,253,false,novo;multilaser;destaque,2024-04-20
+501,Mangá Samsung,books,mangá,7179.94,4460.47,212,false,mangá;oferta,2024-05-23
+310,Óculos Sol Philips,fashion,óculos_sol,2724.36,1412.42,292,true,oferta;promoção,2024-02-14
+196,Esteira Oster,sports,esteira,6931.51,4365.11,215,true,promoção;oferta;destaque,2024-01-21
+92,Roteador Sony,electronics,roteador,7686.48,3320.53,151,true,oferta;destaque,2024-04-11
+498,HQ DC Tramontina,books,hq_dc,2996.02,1570.3,29,true,destaque;oferta;novo;tramontina,2024-05-03
+550,Protetor Solar Logitech,beauty,protetor_solar,5708.17,3925.21,491,true,oferta;promoção,2024-03-15
+348,Sandália Tramontina,fashion,sandália,1060.59,555.1,160,true,oferta;destaque;novo;fashion,2024-03-27
+256,Mochila Trail Puma,sports,mochila_trail,3999.01,1600.41,352,true,mochila;sports;oferta;puma,2024-04-02
+35,Fone Bluetooth Nike,electronics,fone_bluetooth,7096.19,3068.6,113,true,fone;oferta;electronics,2024-02-27
+426,Liquidificador Intelbras,home,liquidificador,5212.22,3101.06,145,true,destaque;novo;promoção,2024-04-24
+28,Smart TV LG,electronics,smart_tv,,3845.55,418,true,lg;electronics;smart;oferta,2024-01-28
+378,Tapete Oster,home,tapete,7180.28,4701.94,152,true,novo;oferta,2024-02-06
+51,Monitor Logitech,electronics,monitor,309.65,155.08,84,false,novo;oferta,2024-01-07
+16,Notebook Philips,electronics,notebook,4090.29,1940.32,283,true,electronics;philips;destaque;novo,2024-02-28
+69,Caixa de Som Mondial,electronics,caixa_de_som,3453.94,2322.95,219,true,novo;mondial;oferta;destaque,2024-02-23
+483,Infantil Electrolux,books,infantil,6693.41,4661.78,474,false,promoção;destaque;infantil;oferta,2024-03-04
+578,Rímel Philips,beauty,rímel,4556.36,2400.65,231,false,novo;philips;promoção;rímel,2024-04-25
+237,Skate Intelbras,sports,skate,4371.65,2373.14,163,true,intelbras;destaque;oferta,2024-01-06
+510,Didático Dell,books,didático,3518.47,2320.23,22,true,promoção;dell;destaque,2024-05-13
+502,Mangá LG,books,mangá,7263.26,3367.98,130,true,mangá;novo;destaque,2024-03-23
+257,Mochila Trail Logitech,sports,mochila_trail,2290.66,1171.79,202,true,destaque;sports;promoção;logitech,2024-01-25
+531,Creme Facial Intelbras,beauty,creme_facial,2244.5,1322.46,350,true,intelbras;creme;novo;oferta,2024-04-30
+111,Jogo PS5 Nike,games,jogo_ps5,866.28,368.7,190,true,nike;novo;destaque;jogo,2024-02-01
+466,História Electrolux,books,história,3938.2,2399.79,101,false,destaque;novo;books,2024-05-23
+151,Teclado Gamer JBL,games,teclado_gamer,4051.31,2503.89,222,true,oferta;jbl;destaque;promoção,2024-04-03
+582,Secador Electrolux,beauty,secador,7521.93,4181.34,335,true,novo;destaque;oferta,2024-05-20
+497,HQ DC LG,books,hq_dc,3348.26,1719.94,281,true,promoção;books;lg,2024-03-11
+415,Panela Nike,home,panela,2271.58,972.02,38,true,panela;oferta;home,2024-05-26
+553,Hidratante Dell,beauty,hidratante,3072.18,1893.4,334,false,oferta;novo;beauty;destaque,2024-01-19
+365,Cadeira Apple,home,cadeira,6251.05,2588.52,403,true,apple;oferta;cadeira;home,2024-04-23
+410,Almofada Multilaser,home,almofada,1842.5,745.49,281,true,oferta;novo;destaque;almofada,2024-03-29
+280,Jaqueta Adidas,fashion,jaqueta,1244.73,804.08,222,true,jaqueta;oferta,2024-03-21
+286,Tênis Casual Puma,fashion,tênis_casual,5295.14,3575.43,101,false,puma;tênis,2024-02-01
+512,Didático Nike,books,didático,4813.29,3041.21,80,true,nike;novo,2024-05-23
+145,Mouse Gamer Adidas,games,mouse_gamer,6609.06,3889.28,170,true,mouse;novo,2024-03-27
+239,Skate Logitech,sports,skate,3865.52,2082.03,95,false,logitech;destaque;novo,2024-02-20
+126,Jogo Switch JBL,games,jogo_switch,3349.77,1628.4,46,false,novo;oferta;jbl,2024-04-25
+414,Panela Intelbras,home,panela,5720.6,3994.46,161,false,novo;oferta;intelbras,2024-03-08
+206,Corda Sony,sports,corda,6534.28,2987.11,308,true,sports;novo,2024-05-23
+347,Sandália Logitech,fashion,sandália,7229.45,4363.1,183,true,oferta;destaque;fashion;promoção,2024-05-04
+204,Corda Intelbras,sports,corda,6801.25,3686.66,362,true,intelbras;novo;promoção,2024-04-16
+373,Luminária LG,home,luminária,4648.8,3181.93,275,true,lg;home;destaque;promoção,2024-01-27
+67,Caixa de Som LG,electronics,caixa_de_som,1699.79,706.11,420,true,promoção;lg;novo,2024-01-14
+173,VR Headset Oster,games,vr_headset,5363.2,2961.53,288,true,oferta;oster;vr,2024-03-25
+105,Controle Dell,games,controle,182.89,116.5,89,true,games;destaque,2024-04-17
+411,Almofada Samsung,home,almofada,8670.46,4187.42,476,false,samsung;almofada;home;promoção,2024-05-09
+405,Vaso Samsung,home,vaso,6634.49,4355.54,228,true,home;novo,2024-04-12
+147,Mouse Gamer Philips,games,mouse_gamer,2675.95,1105.55,477,true,promoção;novo;oferta;mouse,2024-01-10
+123,Jogo Switch Electrolux,games,jogo_switch,969.91,462.44,388,true,oferta;destaque,2024-05-06
+88,Webcam LG,electronics,webcam,8805.14,5530.6,85,true,lg;webcam,2024-01-15
+536,Shampoo Intelbras,beauty,shampoo,2179.32,1159.52,-31,true,destaque;shampoo,2024-01-30
+449,Biografia Multilaser,books,biografia,8233.62,4663.16,151,true,biografia;promoção;multilaser;destaque,2024-02-17
+406,Almofada Oster,home,almofada,7248.28,4689.47,45,true,home;almofada;oster,2024-01-10
+108,Jogo PS5 Brastemp,games,jogo_ps5,637.7,307.69,166,false,novo;jogo;promoção;oferta,2024-01-26
+504,Mangá Puma,books,mangá,8303.47,4514.87,69,false,destaque;promoção,2024-05-17
+14,Notebook Dell,electronics,notebook,8524.25,3628.74,389,true,destaque;promoção,2024-05-20
+184,Tênis Running Brastemp,sports,tênis_running,6814.62,3313.09,393,true,novo;sports;oferta;brastemp,2024-02-14
+377,Luminária Brastemp,home,luminária,999.72,635.89,391,false,promoção;destaque;brastemp,2024-05-01
+488,Infantil Sony,books,infantil,6516.94,2828.04,356,true,promoção;infantil;oferta,2024-01-07
+72,Carregador Intelbras,electronics,carregador,8179.36,5300.14,157,true,intelbras;promoção;carregador,2024-04-13
+194,Esteira Logitech,sports,esteira,566.59,305.23,202,true,destaque;sports,2024-05-28
+,Romance Intelbras,books,romance,1168.89,621.29,7,false,romance;promoção,2024-03-20
+298,Bolsa Dell,fashion,bolsa,6256.64,4246.09,301,true,bolsa;destaque;oferta,2024-02-02
+580,Rímel Apple,beauty,rímel,3546.16,1608.69,84,true,destaque;beauty,2024-05-07
+232,Patins Philips,sports,patins,6072.44,2682.52,78,false,philips;promoção;novo,2024-05-02
+455,Técnico Programação Adidas,books,técnico_programação,6539.54,3658.86,127,true,destaque;novo;promoção;adidas,2024-05-27
+320,Cinto Dell,fashion,cinto,3346.32,1804.56,-42,true,cinto;promoção,2024-04-24
+468,História Brastemp,books,história,6061.44,3194.76,304,true,books;história;novo,2024-04-23
+291,Tênis Casual Sony,fashion,tênis_casual,4545.87,2348.01,112,true,sony;promoção;novo,2024-04-01
+395,Quadro Samsung,home,quadro,436.0,249.41,20,true,home;quadro,2024-02-16
+119,Jogo Xbox Dell,games,jogo_xbox,2986.3,1201.45,194,true,novo;destaque;jogo;dell,2024-04-11
+506,Didático Multilaser,books,didático,5656.61,3692.19,304,true,destaque;didático;multilaser,2024-03-10
+336,Saia Nike,fashion,saia,5317.97,2393.65,148,false,novo;oferta;destaque;saia,2024-04-21
+85,Webcam Logitech,electronics,webcam,7832.94,5187.42,233,true,electronics;promoção;oferta;logitech,2024-04-30
+42,Smartwatch Dell,electronics,smartwatch,7153.12,4920.99,145,true,oferta;electronics,2024-03-20
+296,Bolsa Multilaser,fashion,bolsa,6356.3,2812.64,186,true,destaque;oferta;promoção,2024-05-30
+370,Luminária Philips,home,luminária,3278.72,1526.35,287,true,destaque;luminária,2024-04-24
+508,Didático Sony,books,didático,1054.27,669.97,227,true,novo;books;destaque,2024-03-28
+140,Cadeira Gamer Dell,games,cadeira_gamer,7132.04,3147.23,356,true,promoção;oferta;novo;dell,2024-01-21
+533,Shampoo Tramontina,beauty,shampoo,8912.77,5727.96,42,true,tramontina;shampoo;destaque;beauty,2024-03-12
+113,Jogo PS5 Intelbras,games,jogo_ps5,5221.75,2421.96,55,true,jogo;intelbras;oferta;games,2024-04-19
+478,Terror Philips,books,terror,4894.53,3132.65,361,true,oferta;books;novo,2024-02-10
+426,Liquidificador Intelbras,home,liquidificador,5212.22,3101.06,145,true,destaque;novo;promoção,2024-04-24
+322,Chapéu Mondial,fashion,chapéu,7720.27,4587.49,209,true,mondial;promoção;fashion;novo,2024-01-03
+116,Jogo Xbox Tramontina,games,jogo_xbox,7955.02,3553.3,41,true,destaque;promoção;oferta,2024-04-23
+418,Frigideira Brastemp,home,frigideira,8087.28,5372.35,93,true,home;novo;oferta,2024-01-14
+234,Patins Dell,sports,patins,1028.66,488.07,313,true,destaque;oferta;promoção;patins,2024-04-20
+527,Perfume Oster,beauty,perfume,8976.23,5394.89,8,true,promoção;destaque;oferta;beauty,2024-01-22
+53,Teclado Adidas,electronics,teclado,2540.05,1740.85,240,true,novo;adidas;teclado;electronics,2024-01-18
+435,Aspirador JBL,home,aspirador,6204.82,3397.63,392,false,novo;home;jbl,2024-05-20
+389,Espelho Electrolux,home,espelho,8540.02,5105.43,247,true,home;promoção,2024-02-29
+364,Cadeira Adidas,home,cadeira,5563.52,3352.9,331,false,novo;destaque,2024-03-14
+186,Bicicleta Intelbras,sports,bicicleta,4115.92,2438.25,68,false,sports;intelbras;bicicleta,2024-02-11
+110,Jogo PS5 Philips,games,jogo_ps5,7454.56,3873.53,160,true,games;destaque;promoção,2024-01-18
+451,Biografia Tramontina,books,biografia,1429.24,693.09,49,true,oferta;books,2024-02-15
+97,Console Sony,games,console,8706.09,5583.88,7,true,sony;promoção;console;novo,2024-05-29
+376,Luminária Nike,home,luminária,3925.08,1589.92,328,true,novo;nike;destaque;luminária,2024-05-08
+487,Infantil Nike,books,infantil,7964.46,5034.36,150,true,novo;books;promoção;oferta,2024-01-24
+517,Culinária Samsung,books,culinária,4106.38,1679.83,236,true,oferta;culinária;novo,2024-05-27
+220,Bola Futebol Electrolux,sports,bola_futebol,8654.18,4985.77,203,true,sports;novo;oferta,2024-05-25
+71,Carregador Brastemp,electronics,carregador,686.89,322.86,301,true,brastemp;novo;electronics,2024-02-08
+5,Tablet Intelbras,electronics,tablet,6968.17,4846.83,194,true,destaque;tablet;electronics,2024-04-04
+551,Protetor Solar Sony,beauty,protetor_solar,5847.06,2648.63,97,true,promoção;sony;protetor;oferta,2024-01-22
+176,VR Headset Mondial,games,vr_headset,332.43,227.54,160,false,promoção;destaque,2024-02-22
+289,Tênis Casual Apple,fashion,tênis_casual,3736.86,2112.1,70,false,destaque;novo,2024-03-04
+197,Esteira Sony,sports,esteira,6159.72,3686.83,178,true,novo;promoção,2024-05-15
+223,Bola Basquete Puma,sports,bola_basquete,4999.09,2562.67,194,true,bola;sports;puma;novo,2024-03-09
+542,Kit Maquiagem Sony,beauty,kit_maquiagem,558.94,323.2,306,true,sony;oferta;novo;beauty,2024-04-06
+15,Notebook Mondial,electronics,notebook,1527.64,852.88,475,true,notebook;promoção;oferta;destaque,2024-05-12
+593,Escova Intelbras,beauty,escova,6570.26,3444.51,73,true,promoção;novo;escova,2024-01-17
+102,Controle Sony,games,controle,1748.52,763.49,339,true,destaque;novo;sony;oferta,2024-03-26
+70,Caixa de Som Logitech,electronics,caixa_de_som,5647.7,2707.47,282,true,logitech;promoção,2024-04-25
+584,Secador Dell,beauty,secador,6938.47,2873.88,85,true,novo;secador;beauty;oferta,2024-02-09
+518,Culinária Puma,books,culinária,1189.96,512.73,166,true,novo;promoção;destaque,2024-04-15
+248,Barraca Camping Intelbras,sports,barraca_camping,7765.81,3308.97,415,true,oferta;destaque,2024-05-30
+513,Didático Adidas,books,didático,4650.28,2148.3,72,true,books;oferta;adidas;didático,2024-03-27
+165,Volante Apple,games,volante,3094.32,1371.1,440,true,games;volante;novo,2024-05-23
+361,Mesa Jantar Oster,home,mesa_jantar,1926.64,1183.56,67,true,novo;destaque;mesa;oster,2024-03-31
+357,Mesa Jantar Adidas,home,mesa_jantar,7544.47,4350.47,-36,true,adidas;novo;oferta,2024-05-21
+594,Escova Logitech,beauty,escova,,4848.96,327,true,beauty;novo;promoção,2024-05-25
+285,Tênis Casual Oster,fashion,tênis_casual,1136.8,475.75,101,false,destaque;oferta;oster,2024-05-29
+150,Teclado Gamer Apple,games,teclado_gamer,2924.45,1240.03,308,false,destaque;promoção,2024-03-30
+93,Roteador LG,electronics,roteador,2506.25,1428.01,25,false,oferta;electronics;novo,2024-03-31
+30,Fone Bluetooth Tramontina,electronics,fone_bluetooth,444.44,222.25,82,false,destaque;promoção;novo;tramontina,2024-01-29
+360,Mesa Jantar Philips,home,mesa_jantar,7252.11,3201.47,262,true,novo;mesa;oferta;home,2024-02-21
+190,Halteres Logitech,sports,halteres,6189.64,4189.96,353,true,halteres;oferta;novo;sports,2024-02-26
+205,Corda Logitech,sports,corda,5037.11,2217.48,331,true,oferta;corda;logitech,2024-05-17
+422,Liquidificador Philips,home,liquidificador,8813.51,5339.26,411,true,promoção;oferta;home;novo,2024-02-08
+211,Luvas Logitech,sports,luvas,6881.29,3761.22,235,true,oferta;luvas;sports;novo,2024-05-19
+258,Mochila Trail Nike,sports,mochila_trail,59.62,32.38,348,false,nike;destaque,2024-03-28
+127,Jogo Switch Dell,games,jogo_switch,8185.08,4677.75,256,true,promoção;dell,2024-03-28
+99,Controle Intelbras,games,controle,8962.55,3897.24,198,false,destaque;oferta;novo,2024-04-17
+11,Tablet Multilaser,electronics,tablet,5387.22,2776.74,128,true,destaque;multilaser;novo;tablet,2024-03-28
+309,Óculos Sol Sony,fashion,óculos_sol,7282.39,3817.4,31,false,promoção;novo;oferta;fashion,2024-05-01
+68,Caixa de Som Apple,electronics,caixa_de_som,1407.72,905.65,127,true,oferta;promoção;novo;electronics,2024-05-13
+45,Câmera Samsung,electronics,câmera,499.31,237.05,410,false,novo;oferta;destaque;câmera,2024-04-23
+260,Camiseta Mondial,fashion,camiseta,7875.86,4666.23,288,true,destaque;fashion;promoção;camiseta,2024-02-24
